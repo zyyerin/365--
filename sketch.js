@@ -1,35 +1,53 @@
-let cells = [];
-
+let xlimit;
+let ylimit;
+let bgCol = 233;
 function setup() {
-  createCanvas(windowWidth, windowHeight);
-  cells.push(new Cell());
-  noCursor();
-  frameRate(48);
+    createCanvas(windowWidth, windowHeight);
+    xlimit = 60;
+    ylimit = 60;
+    noCursor();
+    background(bgCol);
+
 }
 
 function draw() {
-  background(20);
+  background(bgCol);
 
-  for (let i = 0; i < cells.length; i++) {
-    cells[i].move();
-    cells[i].show();
-  }
+  let posx = map(mouseX, 0, width, -xlimit, xlimit);
+  let posy = map(mouseY, 0, height, -ylimit, ylimit);
+
+  // the hole
+  noStroke();
+  let holeSize = 200;
+  let gradientStep = 2;
   fill(0);
-  ellipse(mouseX, mouseY, 20, 20);
-}
+  ellipse(width/2, height/2, holeSize, holeSize);
 
-function mousePressed() {
-  for (let i = cells.length - 1; i >= 0; i--) {
-    if (cells[i].clicked(mouseX, mouseY)) {
-      cells.push(cells[i].mitosis());
-      cells.push(cells[i].mitosis());
-      cells.splice(i, 1);
-    }
+  push();
+  translate(width/2, height/2);
+  for(let i=0; i<holeSize; i+=gradientStep){
+    fill(i);
+    ellipse(posx, posy, holeSize-i, holeSize-i);
   }
+  pop();
 
-  if (cells.length > 7000) {
-    for (let i = cells.length - 1; i >= 7000; i--) {
-        cells.pop();
-    }
-  }
+  // the mover
+  let centerFill = map(abs(posx)+abs(posy), 0, xlimit+ylimit, bgCol, 255);
+  let scale = map(abs(posx)+abs(posy), 0, xlimit+ylimit, 1.1, 0.6);
+
+  fill(255, centerFill);
+  push();
+  translate(width/2, height/2);
+  ellipse(posx, posy, holeSize*scale, holeSize*scale);
+  pop();
+
+  noFill();
+  stroke(bgCol);
+  let sw = 150;
+  strokeWeight(sw);
+  ellipse(width/2, height/2, holeSize+sw, holeSize+sw);
+
+  noStroke();
+  fill(255-centerFill);
+  ellipse(mouseX, mouseY, holeSize*scale/10, holeSize*scale/10);
 }
