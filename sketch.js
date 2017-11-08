@@ -1,53 +1,38 @@
-let xlimit;
-let ylimit;
-let bgCol = 233;
-function setup() {
-    createCanvas(windowWidth, windowHeight);
-    xlimit = 60;
-    ylimit = 60;
-    noCursor();
-    background(bgCol);
+let shapeDepth;
+let dx, dy;
 
+function setup() {
+  createCanvas(windowWidth, windowHeight, WEBGL);
+  shapeDepth = height / 9;
+  // dx = floor(random(2, 7));
+  // dy = floor(random(2, 7));
+  dx = 2;
+  dy = 2;
 }
 
 function draw() {
-  background(bgCol);
 
-  let posx = map(mouseX, 0, width, -xlimit, xlimit);
-  let posy = map(mouseY, 0, height, -ylimit, ylimit);
 
-  // the hole
-  noStroke();
-  let holeSize = 200;
-  let gradientStep = 2;
+  background(0);
+
+  // var dirY = (mouseY / height - 0.5) * 4;
+  // var dirX = (mouseX / width - 0.5) * 4;
+  // directionalLight(204, 204, 204, dirX, dirY, 1);
   fill(0);
-  ellipse(width/2, height/2, holeSize, holeSize);
-
   push();
-  translate(width/2, height/2);
-  for(let i=0; i<holeSize; i+=gradientStep){
-    fill(i);
-    ellipse(posx, posy, holeSize-i, holeSize-i);
+  rotateX(frameCount * 0.015);
+  rotateZ(frameCount * 0.008);
+  // plane(width, height);
+  pop();
+
+
+  fill(255, 10);
+  push();
+  rotateX(frameCount * 0.01);
+  rotateY(frameCount * 0.01);
+
+  for (let i = 0; i < 20; i++) {
+    sphere(shapeDepth * i * 0.1, dx+i%7, dy+i%7);
   }
   pop();
-
-  // the mover
-  let centerFill = map(abs(posx)+abs(posy), 0, xlimit+ylimit, bgCol, 255);
-  let scale = map(abs(posx)+abs(posy), 0, xlimit+ylimit, 1.1, 0.6);
-
-  fill(255, centerFill);
-  push();
-  translate(width/2, height/2);
-  ellipse(posx, posy, holeSize*scale, holeSize*scale);
-  pop();
-
-  noFill();
-  stroke(bgCol);
-  let sw = 150;
-  strokeWeight(sw);
-  ellipse(width/2, height/2, holeSize+sw, holeSize+sw);
-
-  noStroke();
-  fill(255-centerFill);
-  ellipse(mouseX, mouseY, holeSize*scale/10, holeSize*scale/10);
 }
