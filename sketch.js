@@ -1,72 +1,63 @@
 let num;
-let from;
-let to;
-
-let t;
-let offsetScale;
-
-let randy0,randy1, randy2,randy3, randy4,randy5;
-
+let intervalX;
+let bubbleR;
+let sw;
+let numLimit;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(0);
-  colorMode(RGB);
-  noStroke();
-  num = 100;
-  t = 0;
+  stroke(255);
+  frameRate(24);
 
-  offsetScale = random(100, 300);
-
-  randy0 = random(10);
-  randy1 = random(10);
-  randy2 = random(10);
-  randy3 = random(10);
-  randy4 = random(10);
-  randy5 = random(10);
+  // initializing variable
+  num = 0;
+  bubbleR = 200;
+  numLimit = random(10, 20);
 }
 
 function draw() {
   background(0);
-  from = color(255);
-  to = color(0);
+  let sw = intervalX/3;
+  intervalX = bubbleR/num;
+  let offset = frameCount*0.07;
 
-  t += 0.05;
-  // strokeWeight(noise(t)*5);
 
-  // strokeWeight(1);
-  let offset = noise(frameCount / 100) * offsetScale;
-  let offset1 = noise(mouseX / 500) * offsetScale;
-  let offset2 = noise(mouseY / 500) * offsetScale;
+  if (num < numLimit){ num ++; }
 
-  for (let i = 0; i < num; i++) {
-    let y = i * height / num;
-    stroke(lerpColor(from, to, i / num));
+  strokeWeight(sw);
 
-    strokeWeight(3);
-    line(0, y + offsetScale * randy5, width, y + offset+ offsetScale * 5);
-
-    strokeWeight(2);
-    line(0, y + offsetScale * randy4, width, y + offset1+ offsetScale * 4);
-    strokeWeight(1.5);
-
-    line(0, y + offsetScale * randy3, width, y + offset+ offsetScale * 3);
-    strokeWeight(1);
-
-    line(0, y + offsetScale * randy2, width, y + offset2 + offsetScale * 2);
-    strokeWeight(0.5);
-
-    line(0, y + offsetScale * randy1, width, y + offset + offsetScale * 1);
-    strokeWeight(0.1);
-
-    line(0, y + offsetScale * randy0, width, y + offset1 + offsetScale * 0);
-    strokeWeight(0.01);
-
-    line(0, y + width, y + offset1 + offsetScale * 0);
+  push();
+  translate(width/2, height/2);
+  rotate(map(mouseY, 0, width, 0, PI));
+  for(let i=0; i<num; i++) {
+    line(i*intervalX, 0, i*intervalX-offset, sqrt(sq(bubbleR)-sq(i*intervalX)));
   }
-}
+  for(let i=0; i<num; i++) {
+    line(i*intervalX, 0, i*intervalX-offset, -sqrt(sq(bubbleR)-sq(i*intervalX)));
+  }
+  for(let i=0; i<num; i++) {
+    line(-i*intervalX, 0, -i*intervalX-offset, sqrt(sq(bubbleR)-sq(i*intervalX)));
+  }
+  for(let i=0; i<num; i++) {
+    line(-i*intervalX, 0, -i*intervalX-offset, -sqrt(sq(bubbleR)-sq(i*intervalX)));
+  }
 
 
-function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
+  rotate(map(mouseX, 0, width, 0, PI));
+  for(let i=0; i<num; i++) {
+    line(i*intervalX, 0, i*intervalX+offset, sqrt(sq(bubbleR)-sq(i*intervalX)));
+  }
+  for(let i=0; i<num; i++) {
+    line(i*intervalX, 0, i*intervalX+offset, -sqrt(sq(bubbleR)-sq(i*intervalX)));
+  }
+  for(let i=0; i<num; i++) {
+    line(-i*intervalX, 0, -i*intervalX+offset, sqrt(sq(bubbleR)-sq(i*intervalX)));
+  }
+  for(let i=0; i<num; i++) {
+    line(-i*intervalX, 0, -i*intervalX+offset, -sqrt(sq(bubbleR)-sq(i*intervalX)));
+  }
+  pop();
+
+
 }
