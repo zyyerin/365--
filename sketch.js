@@ -1,50 +1,36 @@
-const scribble = new Scribble();              // global mode
+let mic;
+let amp;
+let volhistory = [];
+let angle;
 
-let num;
-let intervalX;
-let bubbleR;
-let sw;
-let numLimit;
-
+//p5 lerp
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  background(0);
-  stroke(255);
-  frameRate(48);
+  background(255);
+  angleMode(DEGREES);
+  mic = new p5.AudioIn();
+  mic.start();
+  amp = new p5.Amplitude();
 
-  // initializing variable
-  num = 0;
-  bubbleR = height/6;
-  numLimit = 5;
+  angle = 360;
 }
 
 function draw() {
-  // background(0);
-  fill(0, 100);
+  //    background(255);
+  fill(255, 20);
+  noStroke();
   rect(0, 0, width, height);
+  let vol = mic.getLevel();
+  volhistory.push(vol);
+
+  if (volhistory.length > 360) {
+    volhistory.splice(0, 1);
+  }
+
+  stroke(0);
+  strokeWeight(vol*100);
   noFill();
-  let sw = intervalX/4;
-  intervalX = bubbleR/num;
-  let offset = 0;
-
-  if (num < numLimit){ num ++; }
-
-  strokeWeight(sw);
-
-  push();
-  translate(mouseX, mouseY);
-  rotate(map(mouseY, 0, height, 0, PI));
-  for(let i=-num; i<num; i++) {
-    scribble.scribbleLine(i*intervalX, sqrt(sq(bubbleR)-sq(i*intervalX)), i*intervalX-offset, -sqrt(sq(bubbleR)-sq(i*intervalX)));
-  }
-  rotate(map(mouseX, 0, width, 0, PI));
-  for(let i=-num; i<num; i++) {
-    scribble.scribbleLine(i*intervalX, sqrt(sq(bubbleR)-sq(i*intervalX)), i*intervalX-offset, -sqrt(sq(bubbleR)-sq(i*intervalX)));
-  }
-
-  pop();
-}
-
-function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
+  ellipse(random(width), random(height), vol * height*2, vol * height*2);
+  fill(0);
+  ellipse(random(width), random(height), vol * width*2, vol * width*2);
 }
