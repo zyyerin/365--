@@ -11,7 +11,7 @@ function setup() {
   createCanvas(600, 600, WEBGL);
   background(255);
   noStroke();
-  fill(0, 200);
+  fill(0);
 
   shapeLimit = floor(random(160, 720));
   lastx = 0;
