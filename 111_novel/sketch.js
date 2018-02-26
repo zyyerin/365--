@@ -1,4 +1,4 @@
-let total = 30;
+let total;
 let radius = 140;
 let loc = new Array();
 
@@ -7,26 +7,22 @@ let easycam;
 
 
 function setup() {
-  createCanvas(600, 600, WEBGL);
+  createCanvas(window.innerWidth, window.innerHeight, WEBGL);
   easycam = createEasyCam();
 
-  //stroke(0);
-  //strokeWeight(1);
-  //noFill();
-  noStroke();
-  fill(255);
+  noFill();
   
   t1 = random(10);
   t2 = random(10);
   t3 = random(10);
 
-  total = round(random(10, 60));
+  total = round(random(10, 50));
 
    for(let i = 0 ; i < total+1; i++) loc[i] = [];
 }
 
 function draw() {
-  background(255);
+  background(32);
 
   t1 += 0.0003;
   t2 += 0.0002;
@@ -51,13 +47,14 @@ function draw() {
   }
 
   for (let i = 0; i < total; i++) {
-    let col = map(i, 0, total, 5, 0);
     noFill();
-    stroke(0);
+    stroke(255);
+    let col = map(i, 0, total, 5, 0);
     strokeWeight(col);
-
-    beginShape(TRIANGLE_STRIP);
+    beginShape();
     for (let j = 0; j <= total; j++) {
+
+
 
       let v1 = loc[i][j];
       let v2 = loc[i+1][j];
@@ -65,8 +62,6 @@ function draw() {
       vertex(v1.x, v1.y, v1.z);
       vertex(v2.x, v2.y, v2.z);
     }
-    endShape(CLOSE);
+    endShape();
   }
-
-  //saveFrame("####.png");
 }
