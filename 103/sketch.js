@@ -4,7 +4,7 @@ let phi = 0;
 let n = 0;
 let c = 0;
 let w = 10;
-const total = 1000;
+const total = 600;
 
 let theta = 0;
 
@@ -13,6 +13,7 @@ function setup() {
   angleMode(DEGREES);
 
   cam = createEasyCam();
+  cam.setRotation([0.5, 0.5, 0.5, 0.05]);
 
   noStroke();
   fill(0);
@@ -31,10 +32,11 @@ function draw() {
     let x = r * cos(phi);
     let y = r * sin(phi);
     let z = sin(theta)/10;
-    w = map(i, 0, total, 3, 0.1);
+    w = map(i, 0, total, 3, 0.5);
 
     translate(x, y, z);
     sphere(w);
   }
   pop();
+
 }
