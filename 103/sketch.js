@@ -9,7 +9,7 @@ const total = 600;
 let theta = 0;
 
 function setup() {
-  createCanvas(600, 600, WEBGL);
+  createCanvas(window.innerWidth, window.innerHeight, WEBGL);
   angleMode(DEGREES);
 
   cam = createEasyCam();
