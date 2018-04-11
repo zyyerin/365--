@@ -1,0 +1,3 @@
+void mousePressed(){
+ saveFrame("##.png"); 
+}
