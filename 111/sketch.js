@@ -1,4 +1,4 @@
-let total;
+const total = 100;
 let radius = 140;
 let loc = new Array();
 
@@ -7,22 +7,23 @@ let easycam;
 
 
 function setup() {
+  pixelDensity(1);
   createCanvas(window.innerWidth, window.innerHeight, WEBGL);
+  setAttributes('antialias', true);  
   easycam = createEasyCam();
 
+  stroke(0);
   noFill();
   
   t1 = random(10);
   t2 = random(10);
   t3 = random(10);
 
-  total = round(random(10, 50));
-
    for(let i = 0 ; i < total+1; i++) loc[i] = [];
 }
 
 function draw() {
-  background(32);
+  background(255);
 
   t1 += 0.0003;
   t2 += 0.0002;
@@ -30,7 +31,7 @@ function draw() {
 
 
   for (let i = 0; i <= total; i++) {
-    let latitude = map(i, 0, total, 0, PI);
+    let latitude = map(i, 0, total, 0, HALF_PI);
     for (let j = 0; j <= total; j++) {
       let longitude = map(j, 0, total, 0, TWO_PI);
 
@@ -47,18 +48,12 @@ function draw() {
   }
 
   for (let i = 0; i < total; i++) {
-    noFill();
-    stroke(255);
-    let col = map(i, 0, total, 5, 0);
-    strokeWeight(col);
-    beginShape();
+    let sw = map(i, 0, total, 2, 0);
+    strokeWeight(sw);
+    beginShape(TRIANGLE_STRIP);
     for (let j = 0; j <= total; j++) {
-
-
-
       let v1 = loc[i][j];
       let v2 = loc[i+1][j];
-
       vertex(v1.x, v1.y, v1.z);
       vertex(v2.x, v2.y, v2.z);
     }
