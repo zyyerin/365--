@@ -9,12 +9,14 @@ Tools I used in this project includes:
 - matter.js
 - d3.js
 - rita.js
+
 *I might forget something, will keep updating*
 
 Resources and tutorials I referenced heavily:
 - Nature of Code by *Daniel Shiffman*
 - *Coding Train* on Youtube
 - Catlike Coding by *Jasper Flick*
+
 *That's pretty much it. Obviously I use tons of pieces of info from internet*
 
 # This repo
