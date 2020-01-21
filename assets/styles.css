@@ -1,0 +1,64 @@
+::selection{
+  color: #fff;
+  background: #000;
+}
+
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0;
+  font-family: Helvetica, sans-serif;
+}
+p {
+  font-size: 15px;
+  line-height: 20px;
+  margin-bottom: 1em;
+}
+
+h1 {
+  font-size: 2em;
+  line-height: 2em;
+  font-weight: bold;
+}
+.site {
+  padding: 2em;
+  background-color: #fafafa;
+}
+
+a {
+  color: #000;
+  border-bottom: 1px solid #000;
+  text-decoration: none;
+  margin-right: 0.5em;
+}
+a:visited{
+  color: black;
+}
+
+canvas {
+  margin: auto;
+}
+
+iframe{
+  z-index: -100;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  border: none;
+}
+
+section {
+  margin-bottom: 2em;
+}
+
+section.text-section {
+  max-width: 600px;
+}
+
+section.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 33%);
+  grid-auto-rows: 4vw;
+}
