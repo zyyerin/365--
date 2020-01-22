@@ -1,5 +1,5 @@
 # 365--
-a one-year project I've started back in 2017/2/28, yet still unfinished for the unpredictability of life
+begin date: 2017/2/28
 
 # Contents
 This repo includes all the sketches I made using anything other than Unity.
@@ -17,10 +17,8 @@ Resources and tutorials I referenced heavily:
 - *Coding Train* on Youtube
 - Catlike Coding by *Jasper Flick*
 
-*That's pretty much it. Obviously I use tons of pieces of info from internet*
-
 # This repo
-For simplicity, I'm using instagram to build a visual documentation/reference.
+For simplicity, I used instagram for visual documentation/reference.
 My goal is to have a more serious project page for many reasons.
 For one, the interactive sketches really should be played rather than watched.
 
