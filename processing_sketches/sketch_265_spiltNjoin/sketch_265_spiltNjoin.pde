@@ -9,7 +9,7 @@ int textY = 10;
 
 void setup() {
   background(255);
-  size(300, 300);
+  size(600, 600);
   fill(0);
   //frameRate(30);
   textAlign(CENTER);

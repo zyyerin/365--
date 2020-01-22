@@ -4,7 +4,7 @@
 }
 
 body {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 0;
   font-family: Helvetica, sans-serif;
@@ -50,7 +50,7 @@ iframe{
 }
 
 section {
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 section.text-section {
@@ -61,4 +61,11 @@ section.gallery {
   display: grid;
   grid-template-columns: repeat(3, 33%);
   grid-auto-rows: 4vw;
+}
+.imgHolder {
+  transition: all 0.5s 5s;
+}
+.imgHolder:hover {
+  filter: invert(1);
+  transition: all 1s;
 }

@@ -1,4 +1,4 @@
-const CARD_NUM = 48;
+const CARD_NUM = 177;
 let count = [];
 
 $(document).ready(function() {

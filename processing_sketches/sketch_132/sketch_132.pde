@@ -45,9 +45,9 @@ void mouseDragged() {
 }
 
 
-void keyPressed() {
-  noLoop();
-  for (int x = 0; x < width; x++)    Arrays.fill(z[x], 0);
-  for (int x = 0; x < width; x++)    Arrays.fill(v[x], 0);
-  loop();
-}
+//void keyPressed() {
+//  noLoop();
+//  for (int x = 0; x < width; x++)    Arrays.fill(z[x], 0);
+//  for (int x = 0; x < width; x++)    Arrays.fill(v[x], 0);
+//  loop();
+//}
