@@ -16,7 +16,7 @@ function init() {
     // load images
     $('.imgHolder').each(function(idx) {
         $(this).css({
-            "background-image": "url(https://erinzy-1258568418.cos.ap-shanghai.myqcloud.com/portfolio/assets/project365/" + (1+idx) + ".png)",
+            "background-image": "url(https://erinzy-1258568418.cos.ap-shanghai.myqcloud.com/portfolio/365--/" + (1+idx) + ".png)",
             "background-size": "cover",
             "background-position": "center",
             "background-repeat": "no-repeat",
