@@ -1,0 +1,2035 @@
+[
+  {
+    "id": "sketch_46",
+    "files": 1,
+    "pdes": [
+      "sketch_46.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_77",
+    "files": 2,
+    "pdes": [
+      "Planet.pde",
+      "sketch_77.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_78",
+    "files": 1,
+    "pdes": [
+      "sketch_78.pde"
+    ],
+    "complexity": "unportable",
+    "alreadyPorted": false,
+    "reasons": [
+      "unportable.video"
+    ]
+  },
+  {
+    "id": "sketch_92_seperationNseek",
+    "files": 3,
+    "pdes": [
+      "Vehicle.pde",
+      "VehicleSet.pde",
+      "sketch_92_seperationNseek.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_93",
+    "files": 3,
+    "pdes": [
+      "Vehicle.pde",
+      "VehicleSet.pde",
+      "sketch_93.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_94_seperation3D",
+    "files": 2,
+    "pdes": [
+      "Vehicle.pde",
+      "sketch_94_seperation3D.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_95_seperation",
+    "files": 2,
+    "pdes": [
+      "Vehicle.pde",
+      "sketch_95_seperation.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_105",
+    "files": 2,
+    "pdes": [
+      "Metaball.pde",
+      "sketch_105.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_106",
+    "files": 2,
+    "pdes": [
+      "Metaball.pde",
+      "sketch_106.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_107",
+    "files": 2,
+    "pdes": [
+      "Metaball.pde",
+      "sketch_107.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_108",
+    "files": 3,
+    "pdes": [
+      "Flowfield.pde",
+      "Vehicle.pde",
+      "sketch_108.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_109",
+    "files": 1,
+    "pdes": [
+      "sketch_109.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_110",
+    "files": 1,
+    "pdes": [
+      "sketch_110.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_111",
+    "files": 1,
+    "pdes": [
+      "sketch_111.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_112",
+    "files": 1,
+    "pdes": [
+      "sketch_112.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_115",
+    "files": 1,
+    "pdes": [
+      "sketch_115.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_116",
+    "files": 1,
+    "pdes": [
+      "sketch_116.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_117",
+    "files": 1,
+    "pdes": [
+      "sketch_117.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_118",
+    "files": 1,
+    "pdes": [
+      "sketch_118.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_118_test",
+    "files": 1,
+    "pdes": [
+      "sketch_118_test.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.shader"
+    ]
+  },
+  {
+    "id": "sketch_123",
+    "files": 1,
+    "pdes": [
+      "sketch_123.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_127",
+    "files": 2,
+    "pdes": [
+      "Objecta.pde",
+      "sketch_127.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_128",
+    "files": 2,
+    "pdes": [
+      "Objecta.pde",
+      "sketch_128.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_129",
+    "files": 2,
+    "pdes": [
+      "Objecta.pde",
+      "sketch_129.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_130",
+    "files": 1,
+    "pdes": [
+      "sketch_130.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_131",
+    "files": 1,
+    "pdes": [
+      "sketch_131.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_132",
+    "files": 1,
+    "pdes": [
+      "sketch_132.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_133_final",
+    "files": 2,
+    "pdes": [
+      "sketch_133_final.pde",
+      "ss.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_134",
+    "files": 1,
+    "pdes": [
+      "sketch_134.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_135",
+    "files": 1,
+    "pdes": [
+      "sketch_135.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_136",
+    "files": 1,
+    "pdes": [
+      "sketch_136.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_138",
+    "files": 3,
+    "pdes": [
+      "FLowField.pde",
+      "Vehicle.pde",
+      "sketch_138.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_139",
+    "files": 3,
+    "pdes": [
+      "FLowField.pde",
+      "Vehicle.pde",
+      "sketch_139.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_140",
+    "files": 2,
+    "pdes": [
+      "Vehicle.pde",
+      "sketch_140_2.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_141",
+    "files": 1,
+    "pdes": [
+      "sketch_141.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_142",
+    "files": 1,
+    "pdes": [
+      "sketch_142.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_143",
+    "files": 2,
+    "pdes": [
+      "Surface.pde",
+      "sketch_143.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_144",
+    "files": 2,
+    "pdes": [
+      "Vehicle.pde",
+      "sketch_144.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_145",
+    "files": 2,
+    "pdes": [
+      "Vehicle.pde",
+      "sketch_145.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_147",
+    "files": 1,
+    "pdes": [
+      "sketch_147.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_148",
+    "files": 1,
+    "pdes": [
+      "sketch_148.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_153",
+    "files": 2,
+    "pdes": [
+      "Cell.pde",
+      "sketch_153.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_154",
+    "files": 2,
+    "pdes": [
+      "Cell.pde",
+      "sketch_154.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_155",
+    "files": 1,
+    "pdes": [
+      "sketch_155.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_156",
+    "files": 1,
+    "pdes": [
+      "sketch_156.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_157",
+    "files": 1,
+    "pdes": [
+      "sketch_157.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_158",
+    "files": 1,
+    "pdes": [
+      "sketch_158.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_159",
+    "files": 1,
+    "pdes": [
+      "sketch_159.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_183",
+    "files": 2,
+    "pdes": [
+      "Circle.pde",
+      "sketch_183.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_222",
+    "files": 2,
+    "pdes": [
+      "Eye.pde",
+      "sketch_222.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_223",
+    "files": 2,
+    "pdes": [
+      "Eye.pde",
+      "sketch_223.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_224",
+    "files": 5,
+    "pdes": [
+      "Particle.pde",
+      "ParticleSystem.pde",
+      "Particle_eye.pde",
+      "StarParticle.pde",
+      "sketch_224.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_225",
+    "files": 3,
+    "pdes": [
+      "Attractor.pde",
+      "Particle.pde",
+      "sketch_225.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_226",
+    "files": 3,
+    "pdes": [
+      "Cluster.pde",
+      "Node.pde",
+      "sketch_226.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_227",
+    "files": 3,
+    "pdes": [
+      "Chain.pde",
+      "Particle.pde",
+      "sketch_227.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_228",
+    "files": 2,
+    "pdes": [
+      "Particle.pde",
+      "sketch_228.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_229",
+    "files": 1,
+    "pdes": [
+      "sketch_229.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_232",
+    "files": 2,
+    "pdes": [
+      "Box.pde",
+      "sketch_232.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_233",
+    "files": 2,
+    "pdes": [
+      "Box.pde",
+      "sketch_233.pde"
+    ],
+    "complexity": "hard",
+    "alreadyPorted": false,
+    "reasons": [
+      "hard.peasycam",
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_235",
+    "files": 3,
+    "pdes": [
+      "Boundary.pde",
+      "CustomShape.pde",
+      "sketch_235.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_236",
+    "files": 3,
+    "pdes": [
+      "Boundary.pde",
+      "CustomShape.pde",
+      "sketch_236.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_236_2",
+    "files": 3,
+    "pdes": [
+      "Boundary.pde",
+      "CustomShape.pde",
+      "sketch_236_2.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_237",
+    "files": 3,
+    "pdes": [
+      "Boundary.pde",
+      "CustomShape.pde",
+      "sketch_237.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_238",
+    "files": 1,
+    "pdes": [
+      "sketch_238.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_239",
+    "files": 2,
+    "pdes": [
+      "Star.pde",
+      "sketch_239.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_258",
+    "files": 1,
+    "pdes": [
+      "sketch_258.pde"
+    ],
+    "complexity": "unportable",
+    "alreadyPorted": false,
+    "reasons": [
+      "unportable.video"
+    ]
+  },
+  {
+    "id": "sketch_258_slitScan",
+    "files": 1,
+    "pdes": [
+      "sketch_258_slitScan.pde"
+    ],
+    "complexity": "unportable",
+    "alreadyPorted": false,
+    "reasons": [
+      "unportable.video"
+    ]
+  },
+  {
+    "id": "sketch_260_2",
+    "files": 3,
+    "pdes": [
+      "Bubble.pde",
+      "Genre.pde",
+      "sketch_260_2.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_260_nonfic",
+    "files": 2,
+    "pdes": [
+      "Bubble.pde",
+      "sketch_260_nonfic.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_261_greatBooksObj",
+    "files": 2,
+    "pdes": [
+      "Bubble.pde",
+      "sketch_261_greatBooksObj.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_262_greatBooks",
+    "files": 1,
+    "pdes": [
+      "sketch_262_greatBooks.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_263_csv",
+    "files": 1,
+    "pdes": [
+      "sketch_263_csv.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_264_wordCount",
+    "files": 1,
+    "pdes": [
+      "sketch_264_wordCount.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_265_spiltNjoin",
+    "files": 1,
+    "pdes": [
+      "sketch_265_spiltNjoin.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_266_string2",
+    "files": 1,
+    "pdes": [
+      "sketch_266_string2.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_267_string",
+    "files": 1,
+    "pdes": [
+      "sketch_267_string.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.audio"
+    ]
+  },
+  {
+    "id": "sketch_269",
+    "files": 2,
+    "pdes": [
+      "Cell.pde",
+      "sketch_269.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_270",
+    "files": 2,
+    "pdes": [
+      "Branch.pde",
+      "sketch_270.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_271",
+    "files": 2,
+    "pdes": [
+      "Cell.pde",
+      "sketch_271.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_272",
+    "files": 2,
+    "pdes": [
+      "Cell.pde",
+      "sketch_272.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_273",
+    "files": 2,
+    "pdes": [
+      "Cell.pde",
+      "sketch_273.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_274",
+    "files": 2,
+    "pdes": [
+      "Cell.pde",
+      "sketch_274.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_275",
+    "files": 2,
+    "pdes": [
+      "Circle.pde",
+      "sketch_275.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_276",
+    "files": 2,
+    "pdes": [
+      "Circle.pde",
+      "sketch_276.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_277",
+    "files": 1,
+    "pdes": [
+      "sketch_277.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_278",
+    "files": 1,
+    "pdes": [
+      "sketch_278.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_279",
+    "files": 1,
+    "pdes": [
+      "sketch_279.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_280",
+    "files": 1,
+    "pdes": [
+      "sketch_280.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_281",
+    "files": 1,
+    "pdes": [
+      "sketch_281.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_282",
+    "files": 1,
+    "pdes": [
+      "sketch_282.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_283",
+    "files": 1,
+    "pdes": [
+      "sketch_283.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_284",
+    "files": 5,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "Mesh.pde",
+      "sketch_284.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_285",
+    "files": 5,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "Mesh.pde",
+      "sketch_285.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_286",
+    "files": 5,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "Mesh.pde",
+      "sketch_286.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_287",
+    "files": 5,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "Mesh.pde",
+      "sketch_287.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_288",
+    "files": 5,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "Mesh.pde",
+      "sketch_288.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_289",
+    "files": 5,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "Mesh.pde",
+      "sketch_289.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_290",
+    "files": 6,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "Mesh.pde",
+      "screenshot.pde",
+      "sketch_290.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_291",
+    "files": 4,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "sketch_291.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_292",
+    "files": 4,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "sketch_292.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_293",
+    "files": 4,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "sketch_293.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_294",
+    "files": 4,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "sketch_294.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_295",
+    "files": 4,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "sketch_295.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_296",
+    "files": 4,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "sketch_296.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_297",
+    "files": 4,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "sketch_297.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_298",
+    "files": 4,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "sketch_298.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_299",
+    "files": 3,
+    "pdes": [
+      "Unit.pde",
+      "screenshot.pde",
+      "sketch_299.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_299_2",
+    "files": 4,
+    "pdes": [
+      "Connection.pde",
+      "ConnectionY.pde",
+      "Cube.pde",
+      "sketch_299_2.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_300",
+    "files": 3,
+    "pdes": [
+      "Unit.pde",
+      "screenshot.pde",
+      "sketch_300.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_301",
+    "files": 3,
+    "pdes": [
+      "Unit.pde",
+      "screenshot.pde",
+      "sketch_301.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_302",
+    "files": 3,
+    "pdes": [
+      "Unit.pde",
+      "screenshot.pde",
+      "sketch_302.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_303",
+    "files": 3,
+    "pdes": [
+      "Unit.pde",
+      "screenshot.pde",
+      "sketch_303.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_304",
+    "files": 3,
+    "pdes": [
+      "Unit.pde",
+      "screenshot.pde",
+      "sketch_304.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_305",
+    "files": 3,
+    "pdes": [
+      "Unit.pde",
+      "screenshot.pde",
+      "sketch_305.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_306",
+    "files": 4,
+    "pdes": [
+      "SquareUnit.pde",
+      "Unit.pde",
+      "screenshot.pde",
+      "sketch_306.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_307",
+    "files": 3,
+    "pdes": [
+      "Unit.pde",
+      "screenshot.pde",
+      "sketch_307.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_308",
+    "files": 2,
+    "pdes": [
+      "screenshot.pde",
+      "sketch_308.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_309",
+    "files": 2,
+    "pdes": [
+      "screenshot.pde",
+      "sketch_309.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_310",
+    "files": 2,
+    "pdes": [
+      "screenshot.pde",
+      "sketch_310.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_311",
+    "files": 2,
+    "pdes": [
+      "screenshot.pde",
+      "sketch_311.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_312",
+    "files": 2,
+    "pdes": [
+      "screenshot.pde",
+      "sketch_312.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_313",
+    "files": 3,
+    "pdes": [
+      "Particle.pde",
+      "ParticleSystem.pde",
+      "sketch_313.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_315",
+    "files": 4,
+    "pdes": [
+      "KinectTracker.pde",
+      "Particle.pde",
+      "SoftParticle.pde",
+      "sketch_315.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_319",
+    "files": 2,
+    "pdes": [
+      "Noiso.pde",
+      "sketch_319.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_320_sound",
+    "files": 1,
+    "pdes": [
+      "sketch_320_sound.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_320_sound_2",
+    "files": 3,
+    "pdes": [
+      "Noiso.pde",
+      "screenshot.pde",
+      "sketch_320_sound_2.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_321",
+    "files": 1,
+    "pdes": [
+      "sketch_321.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_322",
+    "files": 1,
+    "pdes": [
+      "sketch_322.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_323",
+    "files": 2,
+    "pdes": [
+      "Weave.pde",
+      "sketch_323.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_324",
+    "files": 2,
+    "pdes": [
+      "Weave.pde",
+      "sketch_324.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_325",
+    "files": 2,
+    "pdes": [
+      "Weave.pde",
+      "sketch_325.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_326",
+    "files": 1,
+    "pdes": [
+      "sketch_326.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_327",
+    "files": 1,
+    "pdes": [
+      "sketch_327.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_328",
+    "files": 1,
+    "pdes": [
+      "sketch_328.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_329",
+    "files": 1,
+    "pdes": [
+      "sketch_329.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_330",
+    "files": 1,
+    "pdes": [
+      "sketch_330.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_331",
+    "files": 3,
+    "pdes": [
+      "Bridge.pde",
+      "Particle.pde",
+      "sketch_331.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_332",
+    "files": 3,
+    "pdes": [
+      "Bridge.pde",
+      "Particle.pde",
+      "sketch_332.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_333",
+    "files": 3,
+    "pdes": [
+      "Lollipop.pde",
+      "screenshot.pde",
+      "sketch_333.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_334",
+    "files": 4,
+    "pdes": [
+      "CustomShape.pde",
+      "Surface.pde",
+      "screenshot.pde",
+      "sketch_334.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_335",
+    "files": 4,
+    "pdes": [
+      "Boundary.pde",
+      "CustomShape.pde",
+      "Surface.pde",
+      "sketch_335.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_336",
+    "files": 4,
+    "pdes": [
+      "Boundary.pde",
+      "Circle.pde",
+      "Surface.pde",
+      "sketch_336.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_337",
+    "files": 3,
+    "pdes": [
+      "Boundary.pde",
+      "Box.pde",
+      "sketch_337.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_339",
+    "files": 3,
+    "pdes": [
+      "KinectTracker.pde",
+      "Particle.pde",
+      "sketch_339.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_340",
+    "files": 3,
+    "pdes": [
+      "Boundary.pde",
+      "Particle.pde",
+      "sketch_340.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_341",
+    "files": 3,
+    "pdes": [
+      "Boundary.pde",
+      "Particle.pde",
+      "sketch_341.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_342",
+    "files": 3,
+    "pdes": [
+      "Boundary.pde",
+      "Particle.pde",
+      "sketch_342.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_343",
+    "files": 2,
+    "pdes": [
+      "Particle.pde",
+      "sketch_343.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_344",
+    "files": 1,
+    "pdes": [
+      "sketch_344.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_345",
+    "files": 2,
+    "pdes": [
+      "Planet.pde",
+      "sketch_345.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_346",
+    "files": 4,
+    "pdes": [
+      "Particle.pde",
+      "ParticleSystem.pde",
+      "StarParticle.pde",
+      "sketch_346.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_347",
+    "files": 4,
+    "pdes": [
+      "Particle.pde",
+      "ParticleSystem.pde",
+      "StarParticle.pde",
+      "sketch_347.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_348",
+    "files": 4,
+    "pdes": [
+      "Particle.pde",
+      "ParticleSystem.pde",
+      "StarParticle.pde",
+      "sketch_348.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_349",
+    "files": 3,
+    "pdes": [
+      "Particle.pde",
+      "ParticleSystem.pde",
+      "sketch_349.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_350",
+    "files": 3,
+    "pdes": [
+      "Pelo.pde",
+      "screenshot.pde",
+      "sketch_350.pde"
+    ],
+    "complexity": "unportable",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d",
+      "unportable.video"
+    ]
+  },
+  {
+    "id": "sketch_351",
+    "files": 2,
+    "pdes": [
+      "Pendulum.pde",
+      "sketch_351.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_352",
+    "files": 3,
+    "pdes": [
+      "Pendulum.pde",
+      "screenshot.pde",
+      "sketch_352.pde"
+    ],
+    "complexity": "unportable",
+    "alreadyPorted": false,
+    "reasons": [
+      "unportable.video"
+    ]
+  },
+  {
+    "id": "sketch_353",
+    "files": 1,
+    "pdes": [
+      "sketch_353.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_354",
+    "files": 1,
+    "pdes": [
+      "sketch_354.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_355",
+    "files": 2,
+    "pdes": [
+      "Surface.pde",
+      "sketch_355.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_356",
+    "files": 1,
+    "pdes": [
+      "sketch_356.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_357",
+    "files": 1,
+    "pdes": [
+      "sketch_357.pde"
+    ],
+    "complexity": "unportable",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d",
+      "unportable.video"
+    ]
+  },
+  {
+    "id": "sketch_357_2",
+    "files": 1,
+    "pdes": [
+      "sketch_357_2.pde"
+    ],
+    "complexity": "medium",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d"
+    ]
+  },
+  {
+    "id": "sketch_358",
+    "files": 1,
+    "pdes": [
+      "sketch_358.pde"
+    ],
+    "complexity": "unportable",
+    "alreadyPorted": false,
+    "reasons": [
+      "medium.p3d",
+      "unportable.video"
+    ]
+  },
+  {
+    "id": "sketch_360",
+    "files": 1,
+    "pdes": [
+      "sketch_360.pde"
+    ],
+    "complexity": "unportable",
+    "alreadyPorted": false,
+    "reasons": [
+      "unportable.video"
+    ]
+  },
+  {
+    "id": "sketch_361",
+    "files": 1,
+    "pdes": [
+      "sketch_361.pde"
+    ],
+    "complexity": "unportable",
+    "alreadyPorted": false,
+    "reasons": [
+      "unportable.video"
+    ]
+  },
+  {
+    "id": "sketch_362",
+    "files": 3,
+    "pdes": [
+      "Bubble.pde",
+      "Paper.pde",
+      "sketch_362.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_363",
+    "files": 2,
+    "pdes": [
+      "Bubble.pde",
+      "sketch_363.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_364",
+    "files": 2,
+    "pdes": [
+      "Bubble.pde",
+      "sketch_364.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  },
+  {
+    "id": "sketch_365",
+    "files": 2,
+    "pdes": [
+      "Bubble.pde",
+      "sketch_365.pde"
+    ],
+    "complexity": "easy",
+    "alreadyPorted": false,
+    "reasons": []
+  }
+]

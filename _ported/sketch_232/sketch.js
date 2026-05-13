@@ -1,0 +1,71 @@
+// Menger sponge — click cycles between two precomputed states:
+//   0: single 200-unit box
+//   1: one-iteration subdivision (20 boxes)
+// (Iter 2 = 400 boxes is laggy in the gallery iframe, so we don't go there.)
+
+const STATES = []; // populated in setup() once
+let stateIdx = 0;
+let sponge = [];
+let a = 0;
+
+function setup() {
+  createCanvas(600, 600, WEBGL);
+  stroke(0);
+  strokeWeight(0.5);
+  noFill();
+
+  // build states once
+  const root = new SBox(0, 0, 0, 200);
+  STATES.push([root]);
+  STATES.push(root.generate());
+
+  sponge = STATES[0];
+}
+
+function mousePressed() {
+  if (mouseX < 0 || mouseY < 0 || mouseX > width || mouseY > height) return;
+  stateIdx = (stateIdx + 1) % STATES.length;
+  sponge = STATES[stateIdx];
+}
+
+function draw() {
+  background(255);
+
+  rotateX(a);
+  rotateY(a * 0.9);
+  rotateZ(a * 1.1);
+  for (const b of sponge) b.show();
+  a += 0.005;
+}
+
+class SBox {
+  constructor(x, y, z, r) {
+    this.x = x;
+    this.y = y;
+    this.z = z;
+    this.r = r;
+  }
+
+  generate() {
+    const out = [];
+    for (let dx = -1; dx <= 1; dx++) {
+      for (let dy = -1; dy <= 1; dy++) {
+        for (let dz = -1; dz <= 1; dz++) {
+          const sum = Math.abs(dx) + Math.abs(dy) + Math.abs(dz);
+          if (sum > 1) {
+            const nr = this.r / 3;
+            out.push(new SBox(this.x + dx * nr, this.y + dy * nr, this.z + dz * nr, nr));
+          }
+        }
+      }
+    }
+    return out;
+  }
+
+  show() {
+    push();
+    translate(this.x, this.y, this.z);
+    box(this.r);
+    pop();
+  }
+}
