@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
 	<meta charset="UTF-8">
@@ -9,26 +9,59 @@
 	<title>365--</title>
 
 	<link rel="stylesheet" href="assets/css/styles.css">
-
 </head>
 
-<body class="site">
-	<section class="text-section">
-		<h1>Project 365--</h1>
-		<p>2017 – 2019 | In developing a visual language through programing</p>
-		<p>Technology used to realize a design has significant impact on the look of the result for its embedded presets. Programming makes it possible to construct design with logics and semantics. It allows me to think about visuals in a different way. A square becomes a collection of its size, position, fill, stroke, and movements. Rendering produced under such clear instructions are often abstract, complicated, even incomprehensible.</p>
-		<p>This documentation of daily coding practices shows the process of me learning and experimenting with new tools. Programming opens up new possibilities in visualization and more explorations need to be done.</p>
-		<p><a href="https://github.com/zyyerin/365--">View souce code on GitHub.</a></p>
-	</section>
+<body>
+	<div class="scroll-progress" id="scroll-progress" aria-hidden="true"></div>
 
-	<section class="gallery">
-	</selection>
+	<article>
+		<header class="subpage">
+			<p class="eyebrow">Visual Exploration</p>
+			<h1>365--</h1>
 
-	<script
-	  src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
-	  integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
-	  crossorigin="anonymous"></script>
-		<script type="text/javascript" src="assets/script.js"></script>
+			<dl class="meta">
+				<div>
+					<dt>Time</dt>
+					<dd>2017 – 2019</dd>
+				</div>
+				<div>
+					<dt>Category</dt>
+					<dd>Visual Exploration</dd>
+				</div>
+				<div>
+					<dt>Tags</dt>
+					<dd>p5.js, Processing, generative</dd>
+				</div>
+				<div>
+					<dt>Link</dt>
+					<dd><a href="https://github.com/zyyerin/365--" target="_blank" rel="noopener">GitHub</a></dd>
+				</div>
+			</dl>
+
+			<p class="overview">
+				A documentation of daily coding practices: building a visual language through programming. Technology used to realize a design has significant impact on the look of the result for its embedded presets. Programming makes it possible to construct design with logics and semantics — a square becomes a collection of its size, position, fill, stroke, and movements. Click any tile to run the sketch.
+			</p>
+		</header>
+
+		<section class="gallery-wrap">
+			<div class="gallery" id="gallery"></div>
+		</section>
+	</article>
+
+	<div id="player" class="player" hidden aria-modal="true" role="dialog">
+		<div class="player-bar">
+			<span class="player-eyebrow">Sketch</span>
+			<span class="player-title" id="player-title"></span>
+			<a id="player-source" href="#" target="_blank" rel="noopener">Source</a>
+			<button id="player-close" class="player-close" type="button" aria-label="Close">Close</button>
+		</div>
+		<div class="player-frame-wrap">
+			<iframe id="player-frame" title="Sketch player" sandbox="allow-scripts allow-same-origin allow-pointer-lock"></iframe>
+		</div>
+		<div class="player-hint" id="player-hint" hidden></div>
+	</div>
+
+	<script type="text/javascript" src="assets/script.js?v=2"></script>
 </body>
 
 </html>

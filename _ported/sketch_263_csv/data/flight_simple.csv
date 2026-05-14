@@ -1,0 +1,447 @@
+date,plane_type,country,airline,fat,px,phase,cause
+1993-01-06,Dash 8-311,France,Lufthansa Cityline,4,20,approach,pilot & ATC error
+1993-01-09,Hawker Siddeley HS-748-234 Srs,Indonesia,Bouraq Indonesia,15,29,initial_climb,engine failure
+1993-01-31,Shorts SC.7 Skyvan 3-100,Indonesia,Pan Malaysian Air Transport,14,29,en_route,low visibility
+1993-02-08,Tupolev 154M,Iran,Iran Air Tours,131,67,en_route,"pilot error, collision"
+1993-02-28,Dornier 228-201,Taiwan,Formosa Airlines,6,22,approach,bad weather
+1993-03-05,Fokker 100,Macedonia,Palair Macedonian,83,56,initial_climb,maintenance error
+1993-03-19,Beechcraft 200 Super King Air,Norway,West Aviation,3,19,approach,bad weather
+1993-03-23,Embraer 110C Bandeirante,Brazil,Oeste Linhas Aéreas,6,22,en_route,bad weather
+1993-04-06,McDonnell-Douglas MD-11,USA,China Eastern Airlines,2,17,en_route,design flaw
+1993-04-23,Antonov 26,Mongolia,MIAT Mongolian Airlines,32,38,en_route,pilot & crew error
+1993-04-26,Boeing 737 2AB,India,Indian Airlines,55,47,takeoff,pilot error
+1993-05-19,Boeing 727-46,Colombia,SAM Colombia,132,67,en_route,pilot & ATC error
+1993-06-17,Antonov 26B,Georgia,Tajikistan Airlines,41,42,en_route,turbulence
+1993-07-01,Fokker F-28 Fellowship 3000,Indonesia,Merpati Nusantara,41,42,approach,unknown
+1993-06-09,Pilatus BN-2A-20 Islander,Papua New Guinea,Southwest Air,9,25,approach,engine failure
+1993-07-23,BAe 146-300,China,China Northwest Airlines,55,47,takeoff,mechanical failure
+1993-07-26,Boeing 737-5L9,Korea,Asiana Airlines,68,51,approach,bad weather
+1993-06-28,Beechcraft 200 Super King Air,Namibia,Trans Namibia Aviation,3,19,initial_climb,unknown
+1993-07-31,Dornier 228-101,Nepal,Everest Air,19,32,approach,unknown
+1993-08-26,Let L-410UVP-E,Russia,Sakha Avia,24,34,landing,overload
+1993-08-28,Yakovlev 40,Tajikistan,Tajikistan Airlines,82,55,takeoff,overload
+1993-09-14,Airbus A320,Poland,Lufthansa,2,17,landing,"crew error, design flaws"
+1993-09-21,Tupolev-134A,Georgia,Transair Georgia,27,36,approach,heat seeking missile
+1993-09-22,Tupolev-154B,Georgia,Transair Georgia,108,62,approach,shot down
+1993-09-23,Tupolev-154B-2,Georgia,Orbi Georgian Airways,1,15,grounded,mortar or artillery fire
+1993-10-26,McDonnell Douglas MD-82,China,China Eastern Airlines,2,17,landing,wet runway
+1993-10-27,de Havilland Canada DHC-6-300 Twin Otter,Norway,Widerøe,6,22,approach,pilot & company error
+1993-11-10,Hawker Siddeley HS-748-234 Srs,Canada,Air Manitoba,7,23,initial_climb,pilot & crew error
+1993-11-13,McDonnell-Douglas MD-82,China,China Northern Airlines,12,27,approach,autopilot failure
+1993-11-20,Yakovlev Yak-42,Macedonia,Avioimpex,116,64,approach,pilot error
+1993-12-01,Jetstream 31,USA,Northwest Airlink,18,31,approach,pilot & company error
+1993-12-03,BN-2A-20 Islander,Canada,Arctic Wings and Rotors,7,23,en_route,engine failure
+1993-12-09,DHC-6 Twin Otter 300,Senegal,Air Senegal,3,19,approach,pilot error
+1993-12-13,Harbin Yunshuji Y-12-II,Laos,Lao Aviation,18,31,approach,low visibility
+1993-12-26,Antonov 26B,Armenia,Kuban Airlines,35,40,landing,overload
+1994-01-03,Tupolev154M,Russia,Baikal Airlines,125,66,en_route,crew & company error
+1994-01-07,British Aerospace 4101 Jetstream,USA,"Atlantic Coast Airlines, operating for United Express",5,21,approach,pilot & crew error
+1994-02-25,Yakovlev 40,Peru,Expresso Aéreo,31,38,en_route,pilot error
+1994-05-07,Embraer 110EJ Bandeirante,Brazil,Rico Linhas Aéreas,8,24,landing,unknown
+1994-03-23,Airbus A310-304,Russia,Aeroflot,75,53,en_route,pilot error
+1994-04-04,Saab 340B,Netherlands,KLM Cityhopper,3,19,landing,pilot & crew error
+1994-04-25,IRMA/BN-2A-21 Islander,Indonesia,Dirgantara Air Services,10,26,en_route,pilot error
+1994-04-26,Airbus A300b4-622r,Japan,China Airlines,264,91,approach,pilot error
+1994-05-28,Douglas C-53D-DO (DC-3),Colombia,Transoriente Colombia,7,23,initial_climb,engine failure
+1994-06-06,Tupolev Tu-154M,China,China Northwest Airlines,160,73,en_route,maintenance error
+1994-06-13,Swearingen SA226-TC Metro II,Mexico,Aero Cuahonte,9,25,approach,low visibility
+1994-06-18,Fokker F-27 Friendship 500F,Indonesia,Merpati Nusantara,12,27,approach,low visibility
+1994-06-23,DHC-3 Otter,USA,Wings of Alaska,7,23,en_route,low visibility
+1994-06-26,Fokker F-27 Friendship 400M,Ivory Coast,Air Ivoire,17,31,approach,pilot error
+1994-07-01,Fokker F-28 Fellowship 4000,Mauritania,Air Mauritanie,80,55,landing,low visibility
+1994-07-02,McMcDonnell Douglas DC-9-31,USA,USAir,37,40,approach,pilot error & windshear
+1994-07-17,IRMA/Pilatus BN-2B-26 Islander,Martinique,"Trans Island Air, operating for Air Martinique",6,22,approach,pilot error
+1994-07-19,Embraer 110P1 Bandeirante,Panama,Alas Chiricanas,21,33,en_route,suicide bomber
+1994-08-21,ATR 42-312,Morocco,Royal Air Maroc,44,43,en_route,intentional pilot error
+1994-09-08,Boeing 737-3B7,USA,USAir,132,67,approach,rudder failure
+1994-09-13,DHC-6 Twin Otter 300,Nigeria,Aerocontractors,2,17,approach,pilot & crew error
+1994-09-18,BAC One-Eleven 515FB,Algeria,Oriental Airlines,5,21,approach,low visibility
+1994-09-26,Douglas C-47D,Paraguay,TAM Paraguay,1,15,takeoff,engine failure
+1994-09-26,Yakovlev 40,Russia,Cheremshanka Airlines,28,36,en_route,pilot & crew error
+1994-09-29,Rockwell 1121B Jet Commander,Argentina,Radeair,8,24,takeoff,pilot & crew error
+1994-10-12,Fokker F-28 Fellowship,Iran,Iran Aseman Airlines,66,51,en_route,engine failure
+1994-10-31,ATR 72-212,USA,Simmons Airlines,68,51,approach,atmospheric icing
+1994-11-05,Yakovlev 40,Peru,Servicios Aéreos Amazonicos,6,22,landing,pedestrian on runway
+1994-11-22,IRMA/BN-2A-20 Islander,Papua New Guinea,Southwest Air,7,23,en_route,bad weather
+1994-12-10,Boeing 747-283B,Japan,Philippine Airlines,1,15,en_route,bombing
+1994-12-13,British Aerospace 3201 Jetstream,USA,"Flagship Airlines, operating for American Eagle",15,29,approach,pilot error
+1994-12-17,DHC-6 Twin Otter 200,Papua New Guinea,Missionary Aviation Fellowship,28,36,en_route,pilot error
+1994-12-26,Airbus 1300B2-1c,France,Air France,7,23,grounded,hostage situation
+1994-12-29,Boeing 737-4Y0,Turkey,Turkish Airlines,57,48,approach,low visibility
+1995-01-10,DHC-6 Twin Otter 300,Indonesia,Merpati Nusantara,14,29,en_route,bad weather
+1995-01-10,Douglas DC-9-14,Colombia,Intercontinental de Aviación,51,46,approach,crew error
+1995-01-17,DHC-6 Twin Otter 300,Nepal,Royal Nepal Airlines,2,17,takeoff,mechanical failure
+1995-01-20,Let L-410UVP,Russia,Abakan Airlines,3,19,takeoff,engine failure
+1995-01-28,Beechcraft 200 Super King Air,Papua New Guinea,Sociedade de Aviaçao Ligeira,2,17,initial_climb,shot down
+1995-03-31,Airbus A310-324,Romania,TAROM,60,49,en_route,crew error
+1995-05-01,Swearingen SA227-CC Metro 23,Canada,Bearskin Airlines,3,19,approach,pilot error
+1995-05-24,Embraer 110P1 Bandeirante,UK,Knight Air,12,27,en_route,instrument failure
+1995-06-09,de Havilland Canada DHC-8,New Zealand,Ansett New Zealand,4,20,approach,pilot error
+1995-06-16,Antonov 2P,Russia,Aeroflot,13,28,en_route,low visibility
+1995-06-24,Tupolev 134A,Nigeria,"Komi Avia, operating for Harka Air Services",16,30,landing,bad weather
+1995-07-12,DHC-6 Twin Otter 300,Papua New Guinea,Milne Bay Air,15,29,en_route,electrical fire
+1995-07-17,DHC-6 Twin Otter 300,Indonesia,Merpati Nusantara,1,15,takeoff,wet runway
+1995-07-18,Douglas C-47A-80-DL,Madagascar,Madagascar AF,36,40,approach,pilot error
+1995-08-09,Hawker Siddeley HS-748-216 Srs,Indonesia,Bouraq Indonesia,10,26,en_route,pilot & crew error
+1995-08-09,Boeing 737-2H6,El Salvador,Aviateca,65,50,approach,pilot & crew error
+1995-08-14,Embraer 110P1 Bandeirante,Colombia,AIRES Colombia,8,24,en_route,pilot & crew error
+1995-08-21,Embraer EMB-120 Brasília,USA,Atlantic Southeast Airlines,9,25,en_route,design flaw
+1995-09-09,CASA C-212 Aviocar 200,Colombia,SATENA,22,33,approach,low visibility
+1995-09-11,Antonov 26B,Afghanistan,Ariana Afghan Airlines,3,19,approach,pilot & crew error
+1995-09-15,Fokker 50,Malaysia,Malaysia Airlines,34,39,landing,pilot error
+1995-09-20,DHC-3 Otter,Canada,Walsten Air Service,6,22,approach,engine failure
+1995-09-21,Antonov 24RV,Mongolia,MIAT Mongolian Airlines,42,42,approach,pilot error
+1995-11-08,Fokker F-27 Friendship 400M,Argentina,Lineas Aereas del Estado,53,46,en_route,low visibility
+1995-11-13,Boeing 737-F29,Nigeria,Nigeria Airways,11,27,landing,pilot error
+1995-12-03,Boeing 737-200,Cameroon,Cameroon Airlines,71,52,approach,mechanical failure
+1995-12-05,Tupolev 134b-3,Azerbaijan,Azerbaijan Airlines,52,46,initial_climb,maintenance error
+1995-12-07,Beech 1900D,Haiti,Air Saint Martin,20,32,en_route,pilot & atc error
+1995-12-07,Tupolev 154B,Russia,Khabarovsk United Air,98,59,en_route,fuel imbalance
+1995-12-13,Antonov An-24B,Italy,Banat Air,49,45,takeoff,pilot error
+1995-12-18,Lockheed L-188C Electra,Angola,Trans Service Airlift,141,69,unknown,overload
+1995-12-20,Boeing 757-223,Colombia,American Airlines,159,73,approach,crew error
+1996-01-08,Antonov An-32B,DR Congo (then Zaire),Moscow Airways,237,87,initial_climb,overload
+1996-02-06,Boeing 757-225,Dominican Republic,Birgenair,189,79,en_route,pilot error
+1996-02-12,GAF Nomad N.24A,Haiti,Haiti Express Airways,10,26,initial_climb,mechanical failure
+1996-02-29,Boeing 737-222,Peru,Faucett,123,65,approach,pilot error
+1996-03-02,Learjet 25D,Brazil,Madrid Táxi Aéreo,9,25,approach,pilot & crew error
+1996-04-05,Dornier 228-212,Taiwan,Formosa Airlines,6,22,approach,pilot & crew error
+1996-05-03,Antonov 24RV,Sudan,Federal Airlines,53,46,landing,sandstorm
+1996-05-10,DHC-6 Twin Otter 200,Mexico,Aeroservicios Emp. de Durango,16,30,approach,bad weather
+1996-05-11,McDonnell Douglas DC-9,USA,ValuJet,110,62,en_route,cargo fire
+1996-06-13,McDonnell Douglas DC-10-30,Japan,Garuda Indonesia,3,19,takeoff,pilot error
+1996-06-21,Harbin Yunshuji Y-12-II,China,China Flying Dragon,2,17,approach,pilot & crew error
+1996-07-06,McDonnell Douglas MD-88,USA,Delta Air Lines,2,17,takeoff,maintenance error
+1996-07-11,Let L-410UVP-E9D,India,Archana Airways,9,25,approach,pilot & company error
+1996-07-17,Boeing 747-131,USA,Trans World Airlines,230,86,en_route,fuel tank explosion
+1996-07-24,Fokker F-27 Friendship 600,Myanmar,Myanma Airways,8,24,landing,bad weather
+1996-08-29,Tupolev Tu-154M,Norway,Vnukovo Airlines,141,69,approach,pilot & crew error
+1996-09-18,Fairchild C-123K Provider,Mexico,Krissalan de Aviacion,5,21,takeoff,unknown
+1996-10-02,Boeing 757-23A,Pacific Ocean,Aeroperú,70,52,en_route,maintenance error
+1996-10-26,Yakovlev 40K,Russia,Tyumenaviatrans,5,21,landing,pilot error
+1996-10-31,Fokker F28 Mk 0100,Brazil,TAM Transportes Aéreos Regionais,103,61,initial_climb,engine failure
+1996-11-01,Embraer 110P1 Bandeirante,Guatemala,TAPSA,14,29,approach,low visibility
+1996-11-07,Boeing 727-231,Nigeria,ADC Airlines,144,70,approach,pilot & atc error
+1996-11-12,Ilyushin 76TD,India,Kazakhstan Airlines,37,40,en_route,"pilot error, mid air collision"
+1996-11-12,Boeing 747-168B,India,Saudi Arabian Airlines,312,98,en_route,"pilot error, mid air collision"
+1996-11-14,Antonov 2T,Russia,Komi Avia,14,29,initial_climb,pilot & crew error
+1996-11-19,Beechcraft 1900,USA,United Express,14,29,landing,pilot error
+1996-11-23,Boeing 767-260ER,Comoros,Ethiopian Airlines,125,66,approach,hijack
+1996-11-30,DHC-6 Twin Otter 300,Colombia,ACES Colombia,14,29,en_route,overload
+1996-12-07,CASA/Nurtanio NC-212-A4 Avioca,Indonesia,Dirgantara Air Services,18,31,approach,engine failure
+1997-01-07,DHC-6 Twin Otter 300,Samoa,Polynesian Airlines,3,19,en_route,pilot error
+1997-01-09,Embraer EMB-120 Brasília,USA,Comair,29,37,approach,atmospheric icing
+1997-01-31,Embraer 110P1A Bandeirante,Nigeria,Skypower Express,5,21,approach,pilot error
+1997-02-14,Boeing 737-2C3,Brazil,Varig,1,15,landing,low visibility
+1997-03-18,Antonov AN-24,Russia,Stavropolskaya Aktsionernaya Avia,50,45,en_route,maintenance error
+1997-04-19,British Aerospace ATP,Indonesia,Merpati Nusantara,15,29,approach,pilot error
+1997-05-08,Boeing 737-31B,China,China Southern Airlines,35,40,landing,thunderstorm
+1997-06-06,Vickers 781D Viscount,DR Congo,Bazair,23,34,en_route,unknown
+1997-06-10,Harbin Yunshuji Y-12 II,Mongolia,MIAT Mongolian Airlines,7,23,approach,atc error
+1997-07-09,Fokker 100,Brazil,TAM Transportes Aéreos Regionais,1,15,en_route,attempted hijack
+1997-07-11,Antonov 24RV,Cuba,Cubana de Aviación,44,43,en_route,mechanical failure
+1997-07-17,Fokker F-27 Friendship 600,Indonesia,"Trigana Air Service, operating for Sempati Air",28,36,en_route,engine failure
+1997-07-29,BAC One-Eleven 203AE,Nigeria,ADC Airlines,1,15,landing,low visibility
+1997-07-30,ATR-42-512,Italy,Air Littoral,1,15,landing,pilot error
+1997-08-06,Boeing 747-3B5,Guam,Korean Air,228,85,approach,pilot & crew error
+1997-08-10,Dornier 228-212,Taiwan,Formosa Airlines,16,30,approach,low visibility
+1997-09-03,Tupolev Tu-134,Cambodia,Vietnam Airlines,65,50,approach,pilot error
+1997-09-06,Dornier Du 228,Malaysia,Royal Brunei Airlines,10,26,approach,pilot error
+1997-09-12,DHC-6 Twin Otter 300,DR Congo,TMK Air Commuter,19,32,en_route,pilot error
+1997-09-26,Airbus A300,Indonesia,Garuda Indonesia,234,86,approach,atc error & bad weather
+1997-10-10,Douglas DC-9-32,Argentina,Austral Líneas Aéreas,74,53,en_route,pilot error
+1997-12-09,Embraer 110P1 Bandeirante,Canada,Sowind Air,4,20,approach,low visibility
+1997-12-13,Swearingen SA226-TC Metro II,Bolivia,"STAP-Serv. y Transportes Aéreos Petroleros, operating for SAVE",10,26,initial_climb,engine failure
+1997-12-15,Tupolev 154B-1,UAE,Tajikistan Airlines,85,56,approach,pilot error
+1997-12-17,Yakovlev Yak-42,Greece,Aerosvit,70,52,en_route,pilot error
+1997-12-19,Boeing 737-36N,Indonesia,SilkAir,104,61,en_route,intentional pilot error
+1997-12-28,Boeing 747-122,Pacific ocean,United Airlines,1,15,en_route,pilot error
+1998-01-27,Fokker F-27 Friendship 600,Myanmar,Myanma Airways,16,30,takeoff,engine failure
+1998-02-02,Douglas DC-9-32,Philippines,Cebu Pacific Air,104,61,en_route,pilot error
+1998-02-16,Airbus A300,Taiwan,China Airlines,202,81,approach,pilot & crew error
+1998-03-18,Saab 340B,Taiwan,Formosa Airlines,13,28,en_route,pilot & crew error
+1998-03-19,Boeing 727-228,Afghanistan,Ariana Afghan Airlines,45,44,en_route,bad weather
+1998-03-22,Airbus A320,Philippines,Philippine Airlines,3,19,landing,pilot error
+1998-03-28,Antonov 32,Peru,Peruvian AF,22,33,approach,engine failure
+1998-04-20,Boeing 727,Colombia,Air France,53,46,en_route,pilot & crew error
+1998-05-05,Boeing 737-282,Peru,"Fuerza Aérea del Peru - FAP, operating for Occidental Petroleum",75,53,approach,low visibility
+1998-05-26,Harbin Y-12,Mongolia,MIAT Mongolian Airlines,28,36,en_route,overload
+1998-06-18,Swearingen SA226-TC Metro II,Canada,Propair,11,27,approach,pilot & crew error
+1998-07-27,Consolidated PBY-5A Catalina,UK,Plane Sailing,2,17,landing,maintenance error
+1998-07-29,Embraer 110P1 Bandeirante,Brazil,Selva Taxi Aéreo,12,27,en_route,overload
+1998-07-30,HAL/Dornier 228-201,India,Alliance Air,9,25,initial_climb,mechanical failure
+1998-07-30,Beechcraft 1900D,France,Proteus Air,14,29,approach,pilot error
+1998-08-21,DHC-6 Twin Otter 300,Nepal,"Nepalese CAA, operating for Lumbini Airways",18,31,en_route,unknown
+1998-08-24,Fokker F-27,Myanmar,Myanma Airways,36,40,approach,pilot error
+1998-08-29,Tupolev 154M,Ecuador,Cubana,80,55,takeoff,maintenance error
+1998-09-02,Antonov 26B,Angola,"Permtransavia, operating for Prestavia",24,34,en_route,engine failure
+1998-09-02,Douglas MD-11,Canada,Swissair,229,86,en_route,design flaw
+1998-09-25,BAe 146,Morocco,PauknAir,38,41,approach,pilot error
+1998-09-29,Antonov An-24rv,Sri Lanka,Lionair,55,47,en_route,shot down
+1998-10-10,Boeing 727-30,DR Congo,Lignes Aériennes Congolaises,41,42,en_route,shot down
+1998-11-01,Douglas C-47A-90-DL (DC-3C),Guatemala,Living Water Teaching Ministries,11,27,approach,low visibility
+1998-12-11,Airbus A310-324,Thailand,Thai Airways International,101,60,approach,bad weather
+1999-02-24,Tupolev Tu-154M,China,China Southwest Airlines,61,49,approach,mechanical failure
+1999-02-25,Dornier 328-110,Italy,Minerva Airlines,4,20,landing,bad weather
+1999-04-08,DHC-6 Twin Otter 300,Colombia,Aerotaca,5,21,en_route,low visibility
+1999-04-07,Boeing 737-400,Turkey,Turkish Airlines,6,22,en_route,bad weather
+1999-05-08,DHC-6 Twin Otter 300,Vanuatu,Vanair,7,23,en_route,bad weather
+1999-06-01,Douglas Md-82,USA,American Airlines,11,27,landing,pilot & crew error
+1999-06-17,Embraer 110P2 Bandeirante,papua New Guinea,Airlink,17,31,en_route,pilot error
+1999-07-04,Douglas DC-6A,Colombia,LANC Colombia,4,20,landing,pilot & crew error
+1999-07-24,Embraer 110P1 Bandeirante,Fiji,Air Fiji,17,31,en_route,pilot error
+1999-08-07,Dornier 228-201,Cape Verde,TACV Cabo Verde Airlines,18,31,en_route,low visibility
+1999-08-12,Beechcraft 1900D,Canada,Regionnair,1,15,approach,pilot error
+1999-08-22,Douglas MD-11,Hong Kong,China Airlines,3,19,landing,pilot error
+1999-08-24,MD-90-30,Taiwan,Uni Air,1,15,landing,passenger error
+1999-08-26,Yakovlev 40,Uzbekistan,Uzbekistan Airways,2,17,landing,pilot error
+1999-08-31,Boeing 737-204C,Argentina,Líneas Aéreas Privadas Argentinas,65,50,takeoff,pilot & crew error
+1999-09-05,British Aerospace BAe-748-501,Nepal,Necon Air,15,29,approach,pilot error
+1999-10-31,Boeing 767-366ER,USA,EgyptAir,217,84,en_route,crew error
+1999-11-09,Douglas DC-9-31F,Mexico,TAESA Lineas Aéreas,18,31,en_route,pilot & crew error
+1999-11-12,ATR-42-312,Serbia,"SiFly, operating for UN",24,34,en_route,pilot & crew error
+1999-12-07,Let L-410UVP-E,Philippines,Asian Spirit,17,31,en_route,unknown
+1999-12-11,British Aerospace ATP,Portugal,SATA Air Açores,35,40,en_route,low visibility
+1999-12-21,Douglas DC-10-30,Guatemala,Cubana de Aviación,18,31,landing,wet runway
+1999-12-24,Airbus A300B2-101,Afghanistan,Indian Airlines,1,15,en_route,hostage situation
+1999-12-25,Yakovlev 42D,Venezuela,Cubana de Aviación,22,33,approach,pilot error
+1999-12-25,DHC-6 Twin Otter 300,Nepal,Skyline Airways,10,26,en_route,unknown
+2000-01-05,Embraer 110P1A Bandeirante,Nigeria,Skypower Express,2,17,approach,engine failure
+2000-01-10,Saab 340B,Switzerland,Crossair,10,26,en_route,pilot error
+2000-01-13,Shorts 360-300,Libya,"Avisto, operating for Sirte Oil Company",22,33,approach,
+2000-01-15,Let L-410UVP-E,Costa Rica,TACSA,5,21,en_route,pilot error
+2000-01-30,Airbus A310-304,Kenya,Kenya Airways,169,75,take off,pilot error
+2000-01-31,MD-83,USA,Alaska Airlines,88,57,en_route,maintenance error
+2000-02-08,Embraer 110P2 Bandeirante,Mozambique,Sabin Air,1,15,initial_climb,unknown
+2000-03-09,Yakovlev 40D,Russia,Vologoda Air,9,25,initial_climb,bad weather
+2000-03-17,DHC-6 Twin Otter 300,Panama,AeroPerlas,10,26,en_route,unknown
+2000-03-25,Antonov 32,Angola,Uralex,3,19,takeoff,brake failure
+2000-04-19,Boeing 737-2H4,Philippines,Air Philippines,131,67,approach,pilot error
+2000-05-17,Beechcraft 1900C-1,Gabon,Avirex,3,19,approach,bad weather
+2000-05-21,British Aerospace 3102 Jetstream,USA,East Coast Aviation Services,19,32,approach,pilot error
+2000-06-05,Fokker F-27 Friendship 600,Ghana,Ghana Airlink,7,23,landing,pilot error
+2000-06-22,Xian Yunshuji Y-7-100C,China,Wuhan Airlines,49,45,approach,bad weather
+2000-07-08,British Aerospace 3201 Jetstream,Mexico,Aerocaribe,19,32,en_route,bad weather
+2000-07-17,Boeing 737-2A8,India,Alliance Air,60,49,approach,pilot error
+2000-07-25,Aérospatiale / BAC Concorde 10,France,Air France,113,63,take off,mechanical failure
+2000-07-27,DHC-6 Twin Otter 300,Nepal,Royal Nepal Airlines,25,35,en_route,pilot error
+2000-08-12,Antonov 26B,Congo,STAER Airlines,27,36,unknown,unknown
+2000-08-23,Airbus A320-212,Bahrain,Gulf Air,143,70,approach,pilot error
+2000-09-04,Beechcraft 200 Super King Air,Australia,Central Air,8,24,en_route,mechanical failure
+2000-09-27,Boeing 737,China,China Xinhua Airlines,1,15,en_route,hijack
+2000-10-19,Harbin Yunshuji Y-12-II,Laos,Lao Aviation,8,24,approach,bad weather
+2000-10-31,Boeing 747-412,Taiwan,Singapore Airlines,83,56,take off,crew errors
+2000-11-07,Antonov 32B,Congo,"Renan, operating for Malu Aviation",2,17,take off,mechnical failure
+2000-11-15,Antonov 26,Angola,ASA Pesada,57,48,take off,mechnical failure
+2001-01-25,Douglas C-47A-65-DL (DC-3C),Venezuela,Rutaca,24,34,en_route,engine failure
+2001-02-10,GAF Nomad N.24A,Suriname,Gum Air,10,26,ap,pilot error
+2001-03-17,Beechcraft 1900C-1,Angola,SAL Express,16,30,approach,low visibility
+2001-03-24,de Havilland Canada DHC-6 Twin Otter 300,Guadeloupe,Air Caraïbes,20,32,approach,pilot error
+2001-03-29,Gulfstream Aerospace G-1159 Gulfstream III,USA,Avjet Corp,18,31,approach,bad weather
+2001-05-17,Yakovlev 40,Iran,Faraz Qeshm,30,37,en_route,bad weather
+2001-07-04,Tupolev 154M,Russia,Vladivostokavia,145,70,approach,pilot error
+2001-08-23,Antonov 28,DR Congo,Victoria Air,4,20,en_route,overloaded
+2001-08-29,CASA CN-235-200,Spain,Binter Méditerraneo,4,20,approach,mechanical failure
+2001-09-11,Boeing 757-222,USA,United Airlines,44,43,en_route,intentionally crashed
+2001-09-11,Boeing 757-223,USA,American Airlines,189,79,en_route,intentionally crashed
+2001-09-11,Boeing 767-222,USA,United Airlines,965,165,en_route,intentionally crashed
+2001-09-11,Boeing 767-223ER,USA,American Airlines,1692,216,en_route,intentionally crashed
+2001-09-12,Let L-410UVP-E,Mexico,Aero Ferinco,19,32,initial_climb,mechanical failure
+2001-09-15,Fokker 100,Brazil,TAM Brasil,1,15,en_route,engine failure
+2001-09-18,Let L-410UVP-E,Guatemala,Atlantic Airlines,8,24,takeoff,pilot error
+2001-10-04,Tupolev 154M,Black Sea,Sibir Airlines,78,54,en_route,shot down
+2001-10-08,McDonnell Douglas MD-87,Italy,Scandinavian Airlines System - SAS,114,63,takeoff,pilot error
+2001-11-12,Airbus A300B4-605R,USA,American Airlines,265,91,en_route,pilot error
+2001-11-19,Ilyushin 18V,Russia,IRS Aero,27,36,en_route,pilot error
+2001-11-24,Avro RJ.100,Switzerland,Crossair,24,34,approach,pilot error
+2001-12-16,Let L-410UVP-E,Colombia,Heliandes,16,30,en_route,pilot error
+2002-01-16,Boeing 737-3Q8,Indonesia,Garuda,1,15,approach,bad weather
+2002-01-17,Fairchild FH-227E,Colombia,Petroproduccion,26,35,en_route,pilot & crew error
+2002-01-28,Boeing 727-134,Colombia,TAME Ecuador,94,58,approach,pilot error
+2002-02-12,Tupolev 154M,Iran,Iran Air Tours,119,65,approach,bad weather
+2002-03-14,Antonov 2R,Cuba,Aerotaxi,16,30,en_route,wing loss
+2002-04-15,Boeing 767-2J6ER,South Korea,Air China,129,67,approach,bad weather
+2002-05-04,BAC One-Eleven 525FT,Nigeria,EAS Airlines,149,71,en_route,aircraft stalled
+2002-05-07,Boeing 737-566,Tunisia,EgyptAir,14,29,approach,unknown
+2002-05-07,MD-82,China,China Northern,112,63,approach,fire in the cabin/ insurance fraud
+2002-05-25,DHC-6 Twin Otter 300,Indonesia,Trigana Air Service,6,22,en_route,bad weather
+2002-05-25,Boeing 747-209B,Pacific Ocean (Taiwan Straight),China Airlines,225,85,en_route,structural failure
+2002-07-01,Tupolev 154M,Germany,Bashkirskie Avialinii,69,52,en_route,atc error
+2002-07-17,DHC-6 Twin Otter 300,Nepal,Skyline Airways,4,20,en_route,bad weather
+2002-08-22,DHC-6 Twin Otter 300,Nepal,Shangri-La Air,18,31,approach,bad weather
+2002-08-29,Antonov 28,Russia,Vostok Aviakompania,16,30,approach,bad weather
+2002-08-30,Embraer 120ER Brasilia,Brazil,Rico Linhas Aéreas,23,34,approach,bad weather
+2002-09-28,DHC-3 Otter,Canada,Deraps Aviation,3,19,approach,pilot error
+2002-10-25,Beechcraft A100 King Air,USA,Aviation Charter,8,24,approach,crew error
+2002-11-06,Fokker 50,Luxembourg,Luxair,20,32,approach,crew error
+2002-11-11,Fokker F-27 Friendship 600,Philippines,Laoag,19,32,en_route,engine trouble
+2002-11-28,Let L-410UVP-E20,Kenya,Eagle Aviation,1,15,approach,engine trouble
+2002-12-23,Antonov 140,Iran,Aeromist Kharkiv,44,43,en_route,pilot error
+2002-12-27,Let L-410UVP,Comoros,Ocean Airlines,1,15,approach,thunderstorm
+2003-01-08,Beechcraft 1900D,USA,"Air Midwest, operating for US Airways Express",21,33,takeoff,airline error
+2003-01-08,Avro RJ.100,Turkey,Turkish Airlines,75,53,approach,low visibility
+2003-01-09,Fokker F-28 Fellowship 1000,Peru,TANS Perú,46,44,approach,pilot & crew error
+2003-03-06,Boeing 737-2T4,Algeria,Air Algérie,102,60,initial_climb,engine failure
+2003-03-27,DHC-6 Twin Otter 300,Indonesia,Air Regional,4,20,en_route,unknown
+2003-05-26,Yakovlev 42D,Turkey,Union de Transports Aériens,75,53,approach,crew error
+2003-06-22,Canadair CL-600-2B19 Regional,France,Brit Air,1,15,approach,crew error
+2003-07-08,Boeing 737-2J8C,Sudan,Sudan Airways,116,64,approach,engine failure
+2003-07-13,Let L-410UVP-E,Venezuela,Ruiban and Duran,4,20,en_route,unknown
+2003-07-19,Swearingen SA226-TC Metro II,Kenya,Ryan Blake Air Charter,14,29,en_route,unknown
+2003-08-24,Let L-410UVP-E3,Haiti,Tropical Airways,21,33,en_route,mechanical failure
+2003-11-08,Shorts SC.7 Skyvan 3M-100,Guyana,Trans Guyana Airways,2,17,initial takeoff,engine failure
+2003-12-16,DHC-3 Turbo Otter,Canada,Huron Air,2,17,takeoff,pilot error
+2003-12-25,Boeing 727-223,Benin,Union de Transports Aériens,141,69,takeoff,overloaded
+2004-01-03,Boeing 737-3Q8,Egypt,Flash Airlines,148,71,en_route,unknown
+2004-01-13,Yakovlev 40,Uzbekistan,Uzbekistan Airways,37,40,landing,bad weather
+2004-01-28,Beechcraft 1900D,Algeria,Tassili Airlines,1,15,approach,atc error
+2004-02-10,Fokker 50,UAE,Kish Air,43,43,approach,unknown
+2004-05-11,Antonov 12BP,Sudan,El Magal Aviation,1,15,unknown,bad weather
+2004-05-14,Embraer 120ER Brasilia,Brazil,Rico Linhas Aéreas,33,39,approach,unknown
+2004-06-08,Hawker Siddeley HS-748-232 Srs,Gabon,Gabon Express,19,32,en_route,mechanical failure
+2004-06-26,Lisunov Li-2T,Russia,FLA RF,2,17,en_route,engine failure
+2004-08-24,Tupolev 134A-3,Russia,Volga-Aviaexpress,44,43,en_route,"collision, suicide bombing"
+2004-08-24,Tupolev 154B-2,Russia,Sibir Airlines,46,44,en_route,"collision, suicide bombing"
+2004-10-19,British Aerospace 3201 Jetstream,USA,"Corporate Airlines, operating for AmericanConnection",13,28,approach,pilot error
+2004-11-18,British Aerospace 3101 Jetstream,Venezuela,Venezolana,4,20,landing,low visibility
+2004-11-21,Canadair CL-600-2B19 Regional,China,China Yunnan,55,47,initial_climb,icing
+2004-11-28,Canadair CL-600-2A12 Challenger,USA,"Hop-A-Jet Inc, operating for Global Aviation",3,19,takeoff,crew error
+2004-11-30,MBB HFB-320 Hansa Jet,USA,Grand Aire Express,2,17,en_route,pilot & maintenance error
+2004-11-30,MD-82,Indonesia,Lion Air,25,35,landing,wet runway
+2005-02-03,Boeing 737-242,Afghanistan,"Phoenix Aviation, operating for Kam Air",104,61,en_route,low visibility
+2005-02-22,DHC-6 Twin Otter 300,Papua New Guinea,MAF,2,17,Approach,low visibility
+2005-03-16,Antonov 24RV,Russia,"Kuzbassaviafrakht, operating for Regional Airlines",28,36,Approach,pilot & crew error
+2005-03-26,Let L-410UVP-E,Colombia,West Caribbean Airways,9,25,initial_climb,engine failure
+2005-04-12,DHC-6 Twin Otter 100,Indonesia,GT Air,17,31,en_route,unknown
+2005-04-20,Boeing 707-3J9C,Iran,Saha Air,3,19,Landing,mechanical failure
+2005-05-05,Antonov 26,Congo (Democratic Republic),"Aeroworld, operating for Kisangani Airlift",10,26,Approach,pilot error
+2005-05-07,Swearingen SA227-DC Metro 23,Australia,"Transair Australia, operating for Aero-Tropics",15,29,Approach,pilot & crew error
+2005-05-25,Antonov 12BP,Congo (Democratic Republic),Victoria Air,27,36,en_route,unknown
+2005-06-02,Antonov 24B,Sudan,"al-Majal Company, operating for Marsland Aviation",7,23,Takeoff,engine failure
+2005-07-16,Antonov 24B,Equatorial Guinea,Equatorial Express Airlines,60,49,en_route,unknown
+2005-08-06,ATR-72-202,Italy,Tuninter,16,30,en_route,maintenance & crew error
+2005-08-14,Boeing 737-31S,Greece,Helios Airways,121,65,en_route,maintenance & crew error
+2005-08-16,MD-82,Venezuela,West Caribbean Airways,160,73,en_route,emergency response error
+2005-08-23,Boeing 737-244,Peru,TANS Perú,40,42,Approach,pilot & crew error
+2005-09-05,Antonov 26B,Congo (Democratic Republic),"Aerocom, operating for Galaxy Incorporation",11,27,approach,low visibility
+2005-09-05,Boeing 737-230,Indonesia,Mandala Airlines,149,71,initial_climb,pilot & crew error
+2005-09-09,Antonov 26B,Congo (Democratic Republic),Air Kasai,13,28,en_route,unknown
+2005-10-22,Boeing 737-2L9,Nigeria,Bellview Airlines,117,64,en_route,pilot error
+2005-12-08,Boeing 737-7H4,USA,Southwest Airlines,1,15,landing,pilot error
+2005-12-10,DC-9-32,Nigeria,Sosoliso Airlines,108,62,landing,pilot & crew error
+2005-12-19,Grumman G-73T Turbo Mallard,USA,Chalk's,20,32,initial_climb,maintenance & crew error
+2005-12-23,Antonov 140-100,Azerbaijan,Azerbaijan Airlines,23,34,en_route,unknown
+2006-03-31,Let L-410UVP-E20,Brazil,TEAM Linhas Aéreas,19,32,en_route,pilot & crew error
+2006-04-16,Fokker F-27 Friendship 400M,Bolivia,TAM – Transporte Aéreo Militar,1,15,landing,bad weather
+2006-04-24,Antonov 32B,Afghanistan,"Valan International Cargo Charter, operating for US Department of State",5,21,landing,unknown
+2006-05-03,Airbus A320-211,Russia,Armavia,113,63,Approach (APR),pilot error
+2006-06-21,DHC-6 Twin Otter 300,Nepal,Yeti Airlines,9,25,approach,pilot & crew error
+2006-07-09,Airbus A310-324,Russia,Sibir Airlines,125,66,landing,pilot & crew error
+2006-07-10,Fokker F-27 Friendship 200,Pakistan,Pakistan International Airlines,45,44,initial_climb,maintenance & crew error
+2006-08-03,Antonov 28,Congo (Democratic Republic),TRACEP-Congo Aviation,17,31,en_route,unknown
+2006-08-22,Tupolev 154M,Russia,Pulkovo,170,75,en_route,pilot error
+2006-08-27,Canadair CL-600-2B19 Regional,USA,"Comair, operating for Delta Connection",49,45,takeoff,pilot & crew error
+2006-09-01,Tupolev 154M,Iran,Iran Air Tours,28,36,landing,unknown
+2006-09-29,Boeing 737-8EH,Brazil,Gol,154,72,en_route,atc error
+2006-10-10,British Aerospace BAe-146-200A,Norway,Atlantic Airways,4,20,landing,mechanical failure
+2006-10-29,Boeing 737-2B7,Nigeria,ADC Airlines,96,59,initial_climb,pilot error
+2006-11-09,Let L-410UVP,Congo (Democratic Republic),Gomair,1,15,landing,engine failure
+2006-11-17,DHC-6 Twin Otter 300,Indonesia,Trigana Air Service,12,27,en_route,unknown
+2007-01-01,Boeing 737-4Q8,Indonesia,AdamAir,102,60,en_route,pilot error
+2007-03-07,Boeing 737-497,Indonesia,Garuda,21,33,landing,pilot error
+2007-03-17,Tupolev 134A-3,Russia,UTAir,6,22,landing,pilot & crew error
+2007-05-05,Boeing 737-8AL,Cameroon,Kenya Airways,114,63,en_route,pilot error
+2007-06-21,Let L-410UVP,DR Congo,Karibu Airways,1,15,en_route,unknown
+2007-06-25,Antonov 24B,Cambodia,PMT Air,22,33,en_route,unknown
+2007-06-28,Boeing 737-2M2,Angola,TAAG Angola Airlines,6,22,landing,unknown
+2007-07-17,Airbus A320-233,Brazil,TAM Brasil,199,81,landing,unknown
+2007-08-09,DHC-6 Twin Otter 300,French Polynesia,Air Moorea,20,32,initial_climb,mechanical failure
+2007-09-16,MD-82,Thailand,One-Two-Go Airlines,90,57,landing,pilot & crew error
+2007-10-08,Let L-410UVP-E10A,Colombia,Nacional de Aviación,17,31,en_route,pilot error
+2007-11-30,MD-83,Turkey,"World Focus Airlines, operating for Atlasjet",57,48,approach,pilot error
+2008-01-04,Let L-410UVP-E3,Venezuela,Transaven,14,29,en_route,mechanical failure
+2008-01-19,Beechcraft B200 Super King Air,,Gira Globo,13,28,approach,pilot error
+2008-02-21,ATR-42-300,Venezuela,Santa Bárbara Airlines,46,44,en_route,pilot & crew error
+2008-04-03,Antonov 28,Suriname,Blue Wing Airlines,19,32,en_route,unknown
+2008-04-15,DC-9-51,Congo (Democratic Republic),Hewa Bora Airways,40,42,takeoff,unknown
+2008-04-16,Antonov 32,Equatorial Guinea,Equatorial Guinea National Guard,13,28,landing,unknown
+2008-05-02,Beechcraft 1900C,South Sudan,"Flex Air, operating for Southern Sudan Air Connection",21,33,en_route,engine failure
+2008-05-30,Airbus A320-233,Honduras,TACA Airlines,5,21,landing,pilot error
+2008-06-10,Airbus A310-324,Sudan,Sudan Airways,30,37,landing,pilot & crew error
+2008-07-10,Beechcraft 99A,Chile,Aerocord,9,25,approach,pilot error
+2008-08-20,MD-82,Spain,Spanair,154,72,takeoff,pilot & crew error
+2008-08-24,Boeing 737-219,Kyrgyzstan,Itek Air,65,50,approach,pilot & crew error
+2008-09-14,Boeing 737-505,Russia,Aeroflot-Nord,88,57,approach,pilot error
+2008-10-08,DHC-6 Twin Otter 300,Nepal,Yeti Airlines,18,31,landing,pilot & crew error
+2009-02-07,Embraer 110P1 Bandeirante,Brazil,Manaus Aerotáxi,24,34,en_route,overloaded
+2009-02-12,DHC-8-402 Q400,USA,Colgan Air,50,45,approach,pilot error
+2009-02-25,Boeing 737-8F2,Netherlands,Turkish Airlines,9,25,approach,mechanical failure
+2009-06-01,Airbus A330-203,Atlantic Ocean (nr. Brazil),Air France,228,85,en_route,maintenance & crew error
+2009-06-30,Airbus A310-324,Comoros,Yemenia Airways,152,72,approach,pilot & crew error
+2009-07-15,Tupolev 154M,Iran,Caspian Airlines,168,75,en_route,unknown
+2009-07-24,Ilyushin 62M,Iran,Aria Air,16,30,landing,pilot error
+2009-08-02,DHC-6 Twin Otter 300,Indonesia,Merpati Nusantara,15,29,en_route,pilot & crew error
+2009-08-04,ATR-72-212,Thailand,Bangkok Airways,1,15,landing,unknown
+2009-11-12,Canadair CL-600-2B19 Regional,Rwanda,"JetLink Express, operating for Rwandair Express",1,15,grounded,mechanical failure
+2010-01-25,Boeing 737-8AS (WL),Lebanon,Ethiopian Airlines,90,57,initial_climb,pilot & crew error
+2010-05-12,Airbus A330-202,libya,Afriqiyah Airways,103,61,approach,low visibility
+2010-05-17,Antonov 24B,Afghanistan,Pamir Airways,44,43,en_route,low visibility
+2010-05-22,Boeing 737-8HG (WL),India,Air India Express,158,73,landing,pilot error
+2010-07-28,Airbus A321-231,Pakistan,Airblue,152,72,approach,pilot error
+2010-08-16,Boeing 737-73V (WL),Columbia,AIRES Colombia,2,17,landing,pilot error
+2010-08-24,Embraer ERJ 190-100 LR (ERJ-1,China,Henan Airlines,44,43,landing,pilot error
+2010-09-13,ATR-42-320,Venuzuela,Conviasa,17,31,approach,unknown
+2010-11-04,ATR-72-212,Cuba,Aerocaribbean,68,51,en_route,pilot & crew error
+2010-12-04,Tupolev 154M,Russia,"Aeroflot, North Kavkaz Civil Aviation Directorate, operating for Dagestan",2,17,landing,mechanical failure
+2011-01-01,Tupolev 154B-2,Russia,Kolavia,3,19,grounded,electric fire
+2011-01-09,Boeing 727-286,Iran,Iran Air,77,54,approach,low visibility
+2011-02-10,Swearingen SA227-BC Metro III,Ireland,"Flightline, operating for Manx2",6,22,landing,low visibility
+2011-02-14,Let L-410UVP-E20,Honduras,Central American Airways,14,29,en_route,collision
+2011-04-04,Canadair CL-600-2B19 Regional,Congo (Democratic Republic),"Georgian Airways, operating for UN",32,38,landing,low visibility
+2011-05-07,Xian MA60,Indonesia,Merpati Nusantara,25,35,approach,pilot error
+2011-05-18,Saab 340A,Argentina,SOL Líneas Aéreas,22,33,en_route,mechanical failure
+2011-06-20,Tupolev 134A-3,Russia,"RusAir, operating for RusLine",47,44,approach,pilot & crew error
+2011-07-08,Boeing 727-022 (WL),Congo (Democratic Republic),Hewa Bora Airways,77,54,landing,bad weather
+2011-07-11,Antonov 24RV,Russia,Angara Airlines,7,23,en_route,maintenance & crew error
+2011-07-13,Let L-410UVP-E20,Brazil,NOAR Linhas Aéreas,16,30,initial_climb,engine failure
+2011-08-20,Boeing 737-210C,Canada,First Air,12,27,approach,pilot & crew error
+2011-09-06,Swearingen SA227-BC Metro III,Bolivia,Aerocon,8,24,approach,unknown
+2011-09-07,Yakovlev 42D,Russia,YAK Service,44,43,initial_climb,pilot & crew error
+2011-09-20,Beechcraft 99A,Haiti,SALSA d'Haiti,3,19,en_route,collision
+2011-09-25,Beechcraft 1900D,Nepal,Buddha Air,19,32,approach,pilot & crew error
+2011-09-29,CASA/Nurtanio NC-212 Aviocar 2,Indonesia,Nusantara Buana Air,18,31,en_route,collision
+2011-10-13,DHC-8-102,Papua New Guinea,Airlines PNG,28,36,approach,engline loss
+2012-04-02,ATR-72-201,Russia,UTAir,33,39,initial_climb,maintenance & crew error
+2012-04-20,Boeing 737-236,Pakistan,Bhoja Airlines,127,66,Approach,maintenance & crew error
+2012-05-14,Dornier 228-212,Nepal,Agni Air,15,29,approach,collision
+2012-06-03,MD-83,Nigeria,Dana Air,163,74,approach,engine failure
+2012-06-29,Embraer ERJ 190-100 LR (ERJ-1,China,Tianjin Airlines,2,17,en_route,hijacking
+2012-08-19,Antonov 26-100,Sudan,Alfa Airlines,32,38,approach,dust storm
+2012-08-22,Let L-410UVP-E9,Kenya,Mombasa Air Safari,4,20,takeoff,unknown
+2012-09-12,Antonov 28,Russia,Petropavlovsk-Kamchatsky Air Ent.,10,26,approach,pilot & crew error
+2012-09-28,Dornier 228-202,Nepal,Sita Air,19,32,initial_climb,bird strike
+2012-12-22,Swearingen SA227-AC Metro III,Canada,"Perimeter Aviation, operating for Kivalliq Air",1,15,landing,unknown
+2012-12-25,Fokker 100,Myanmar,Air Bagan,2,17,landing,collision
+2013-01-29,Canadair CL-600-2B19 Regional,Kazakhstan,SCAT Airlines,21,33,approach,bad weather
+2013-02-13,Antonov 24RV,Ukraine,South Airlines,5,21,landing,pilot error
+2013-07-06,Boeing 777-28EER,USA,Asiana Airlines,2,17,landing,pilot error
+2013-07-07,DHC-3T Texas Turbine Otter,USA,Rediske Air,10,26,takeoff,unknown
+2013-10-16,ATR-72,Laos,Laos Airlines,49,45,landing,bad weather
+2013-11-17,Boeing 747-53A,Russia,Tatarstan Airlines,50,45,landing,pilot or mechanical error
+2013-11-29,Embraer E190,Namibia,Mozambique Airlines,33,39,en_route,unknown
+2014-02-16,DHC-6 Twin Otter 300,Nepal,Nepal Airlines,18,31,en_route,icing
+2014-03-08,Boeing 777-2H6ER,"Malaysia, Pacific Ocean",Malaysia Airlines,239,87,en_route,unknown
+2014-07-17,Boeing 777-2H6ER,Ukraine,Malaysia Airlines,298,96,en_route,unknown
+2014-07-23,ATR 72-500,Taiwan,TransAsia Airways,48,45,en_route,unknown
+2014-07-24,McDonnell Douglas MD-83,Mali,Air Algérie,116,64,en_route,unknown
+2014-08-10,HESA IrAn-140-100,Iran,Sepahan Airlines,39,41,initial_climb,unknown
+2014-12-28,A320-200,Indonesia,AirAsia,162,74,en_route,unknown
+2015-03-24,A320-211,France,GermanWings,150,71,en_route,criminal
+2015-02-04,ATR 72-600,Taiwan,TransAsia Airways,43,43,takeoff,mechanical
+2015-10-31,Airbus A321-321,Egypt,Metrojet,224,85,ascent,bomb
+2016-12-07,ATR 42,Pakistan,Pakistan International Airlines,48,45,en route,engine failure
+2016-05-19,Airbus A320,Egypt,Egypt Air,66,51,en route,explosion
+2016-03-19,Boeing 737-800,Russia,FlyDubai,62,49,landing,unknown
+2016-02-24,Viking Air DHC-6-400 Twin Otter,Nepal,Tara Air,23,34,en route,technical problem
+2016-02-26,PAX 750XL,Nepal,Air Kasthamandap,2,17,landing,technical problem
+2016-04-13,Britten-Norman BN-2T Turbine Islander,Papua New Guinea,Sunbird Aviation,12,27,en route,technical problem

@@ -1,0 +1,1001 @@
+rank,title,author,year
+1,Confessions,Augustine,398
+2,Essays,Michel de Montaigne,1580
+3,The Prince,Niccolo Machiavelli,1532
+4,The Interpretation of Dreams,Sigmund Freud,1899
+5,On the Origin of Species,Charles Darwin,1859
+6,Walden,Henry David Thoreau,1854
+7,The Republic,Plato,-380
+8,Democracy in America,Alexis de Tocqueville,1840
+9,The Complete Works of Plato,Plato,-347
+10,Pensées,Blaise Pascal,1670
+11,Communist Manifesto,Karl Marx and Friedrich Engels,1848
+12,The Histories of Herodotus,Herodotus,-420
+13,The Diary of a Young Girl,Anne Frank,1944
+14,Silent Spring,Rachel Carson,1962
+15,The Autobiography of Malcolm X,Alex Haley,1965
+16,Meditations,Marcus Aurelius,167
+17,Relativity,Albert Einstein,1917
+18,The History of the Peloponnesian War,Thucydides,-450
+19,"The General Theory of Employment, Interest and Money",John Maynard Keynes,1936
+20,Leviathan,Thomas Hobbes,1651
+21,Thus Spake Zarathustra,Friedrich Nietzsche,1883
+22,The Elements of Style,"William Strunk, Jr and E. B. White",1918
+23,Das Kapital,Karl Marx,1867
+24,Civilization and Its Discontents,Sigmund Freud,1929
+25,The Confessions of Jean-Jacques Rousseau,Jean-Jacques Rousseau,1782
+26,Homage to Catalonia,George Orwell,1938
+27,Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream,Hunter S. Thompson,
+28,The Art of War,Sun Zi,-200
+29,The Second Sex,Simone de Beauvoir,1949
+30,Summa Theologica,Thomas Aquinas,1274
+31,"Speak, Memory",Vladimir Nabokov,1940
+32,The Structure of Scientific Revolutions,Thomas Kuhn,1962
+33,Pragmatism,William James,1907
+34,Analects,Confucius,-350
+35,Tao Te Ching,Lao Tsu,-300
+36,The Essential Writings of Ralph Waldo Emerson,Ralph Waldo Emerson,1882
+37,The Double Helix: A Personal Account of the Discovery of the Structure of DNA,James D. Watson,1968
+38,Corpus Aristotelicum,Aristotle,-400
+39,The Principles of Psychology,William James,1890
+40,Philosophical Investigations,Ludwig Wittgenstein,1953
+41,Beyond Good and Evil,Friedrich Nietzsche,1886
+42,On Liberty,John Stuart Mill,1859
+43,Dialogue Concerning the Two Chief World Systems,Galileo,1632
+44,Principia Mathematica,Issac Newton,1687
+45,The Wealth of Nations,Adam Smith,1776
+46,In Cold Blood,Truman Capote,1966
+47,A Room of One's Own,Virginia Woolf,1929
+48,The Civil War,Shelby Foote,1974
+49,The Life of Samuel Johnson,James Boswell,1823
+50,Annals,Cornelius Tacitus,120
+51,The Right Stuff,Tom Wolfe,1979
+52,Civil Disobedience,Henry David Thoreau,1849
+53,The Federalist Papers,"Alexander Hamilton, James Madison, John Jay",1788
+54,Parallel Lives,Plutarch,120
+55,Three Essays on the Theory of Sexuality,Sigmund Freud,1905
+56,The Second World War,Winston Churchill,1953
+57,The Education of Henry Adams,Henry Adams,1918
+58,R. E. Lee,Douglas Southall Freeman,1934
+59,The Decline and Fall of the Roman Empire,Edward Gibbon,1776
+60,Discourse on Method,Rene Descartes,1637
+61,The Gulag Archipelago,Aleksandr Solzhenitsyn,1973
+62,Mere Christianity,C. S. Lewis,1942
+63,Out of Africa,Isak Dinesen,1937
+64,Orthodoxy,G. K. Chesterton,1908
+65,The Seven Storey Mountain,Thomas Merton,1948
+66,Autobiographies,W. B. Yeats,1926
+67,The Praise of Folly,Erasmus,1509
+68,Institutes of the Christian Religion,John Calvin,1536
+69,The Liberal Imagination,Lionel Trilling,1950
+70,The Golden Bough,James George Frazer,1890
+71,If This Is a Man,Primo Levi,1947
+72,A Brief History of Time,Stephen Hawking,
+73,On the Genealogy of Morality,Friedrich Nietzsche,1887
+74,On the Revolutions of the Heavenly Spheres,Nicolaus Copernicus,1543
+75,Hippocratic Corpus,Hippocrates,-300
+76,The Varieties of Religious Experience,William James,1902
+77,The Waning of the Middle Ages,Johan Huizinga,1919
+78,The Constitution of Liberty,Friedrich A. Hayek,1960
+79,Capitalism and Freedom,Milton Friedman,1962
+80,Modern Times,Paul Johnson,1983
+81,Common Sense,Thomas Paine,1775
+82,An Enquiry Concerning Human Understanding,David Hume,1748
+83,Selected Essays of T. S. Eliot,T. S. Eliot,1932
+84,"Capitalism, Socialism, and Democracy",Joseph Schumpeter,1942
+85,The Origins of Totalitarianism,Hannah Arendt,1951
+86,Black Boy,Richard Wright,1945
+87,I Ching,China,-1400
+88,Quotations from Chairman Mao,Mao,1964
+89,A Mathematician's Apology,G. H. Hardy,1940
+90,Words,Jean Paul Sartre,1963
+91,A Study of History,Arnold J. Toynbee,1961
+92,Ethics,Baruch de Spinoza,1676
+93,The Abolition of Man,C. S. Lewis,1943
+94,The Quest for Community,Robert Nisbet,1953
+95,Up from Slavery,Booker T. Washington,1901
+96,Aspects of the Novel,E. M. Forster,1927
+97,Collected Essays of George Orwell,George Orwell,1961
+98,The Harmony of the Worlds,Johannes Kepler,1619
+99,A Vindication of the Rights of Woman,Mary Wollstonecraft,1798
+100,Euclid's Elements,Euclid,-280
+101,Enneads,Plotinus,250
+102,Two Treatises of Government,John Locke,1689
+103,The Myth of Sisyphus,Albert Camus,1942
+104,The Making of the Atomic Bomb,Richard Rhodes,1988
+105,The Death and Life of Great American Cities,Jane Jacobs,1961
+106,Black Lamb and Grey Falcon,Rebecca West,1941
+107,The Frontier in American History,Frederick Jackson Turner,1920
+108,The Electric Kool-Aid Acid Test,Tom Wolfe,1968
+109,Life on the Mississippi,Mark Twain,1883
+110,The Unconscious,Sigmund Freud,1890
+111,Rights of Man,Thomas Paine,1791
+112,The Snow Leopard,Peter Matthiessen,1978
+113,"Roll, Jordan, Roll",Eugene Genovese,1972
+114,Apology,Plato,-399
+115,The Conservative Mind,Russell Kirk,1953
+116,Moveable Feast,Ernest Hemingway,1964
+117,The Open Society,Karl Popper,1945
+118,Samuel Johnson,Walter Jackson Bate,1977
+119,Future Shock: The Third Wave,Alvin Toffler,1980
+120,Let Us Now Praise Famous Men,James Agee,1941
+121,Patriotic Gore,Edmund Wilson,1962
+122,Memoirs From Beyond the Grave,François René De Chateaubriand,1849
+123,Witness,Whittaker Chambers,1952
+124,Jefferson and His Time,Dumas Malone,1948
+125,Journals: 1889-1913,André Gide,
+126,History of My Life,Giacomo Casanova,1822
+127,The Road to Serfdom,Friedrich von Hayek,1944
+128,Encyclopedia Britannica,Encyclopedia Britannica,1771
+129,Poetics,Aristotle,-335
+130,Genetics and the Origin of Species,Theodosius Dobzhansky,1937
+131,Zen and the Art of Motorcycle Maintenance,Robert M. Pirsig,1974
+132,The Face of Battle,John Keegan,1976
+133,Selected Papers on Hysteria,Sigmund Freud,1912
+134,The Nature of Life,C. H. Waddington,1961
+135,Science and the Modern World,Alfred North Whitehead,1925
+136,The Acquisitive Society,R. H. Tawney,1921
+137,On Narcissism,Sigmund Freud,1914
+138,Essays in Sociology,Max Weber,1958
+139,"Inhibitions, Symptoms, and Anxiety",Sigmund Freud,1893
+140,A Dictionary of the English Language,Samuel Johnson,1755
+141,"Observations on ""Wild"" Psycho-Analysis",Sigmund Freud,1952
+142,Instincts and Their Vicissitudes,Sigmund Freud,1915
+143,The Origin and Development of Psycho-Analysis,Sigmund Freud,1952
+144,The Future Prospects of Psycho-Analytic Therapy,Sigmund Freud,1910
+145,Scientific Autobiography and Other Papers,Max Planck,1949
+146,The Ego and the Id,Sigmund Freud,1923
+147,What Is Metaphysics?,Martin Heidegger,1930
+148,New Introductory Lectures on Psycho-Analysis,Sigmund Freud,1933
+149,Repression,Sigmund Freud,1950
+150,Science and Hypothesis,Henri Poincaré,1905
+151,Atomic Theory and the Description of Nature,Niels Bohr,1952
+152,Structural Anthropology,Claude Lévi-Strauss,1963
+153,The Problems of Philosophy,Bertrand Russell,1912
+154,The Word of God and the Word of Man,Karl Barth,1952
+155,Discussion with Einstein on Epistemology,Niels Bohr,1965
+156,Almagest,Ptolemy,150
+157,Epitome of Copernican Astronomy,Johannes Kepler,1617
+158,The Expanding Universe,Arthur Eddington,1948
+159,Experience in Education,John Dewey,1938
+160,Physics and Philosophy,Werner Heisenberg,1934
+161,Beyond the Pleasure Principle,Sigmund Freud,1920
+162,Rameau's Nephew,Denis Diderot,1805
+163,The Theory of the Leisure Class,Thorstein Veblen,1899
+164,Thoughts for the Times on War and Death,Sigmund Freud,1952
+165,Group Psychology and the Analysis of the Ego,Sigmund Freud,1922
+166,An Introduction to Metaphysics,Henri Bergson,1903
+167,A General Introduction to Psycho-Analysis,Sigmund Freud,1952
+168,An Introduction to Mathematics,Alfred North Whitehead,1910
+169,What Is Life?,Erwin Schrödinger,1929
+170,Fear and Trembling,Søren Kierkegaard,1843
+171,The Affluent Society,John Kenneth Galbraith,1958
+172,Profiles in Courage,John F. Kennedy,1955
+173,The Autobiography of Benjamin Franklin,Benjamin Franklin,1771
+174,An Essay Concerning Human Understanding,John Locke,1690
+175,An American Dilemma,Gunnar Myrdal,1944
+176,Hard Times: An Oral History of the Great Depression,Studs Terkel,1970
+177,Oxford English Dictionary,Oxford University Press,1884
+178,The Voyage of the Beagle,Charles Darwin,1839
+179,The Bookseller of Kabul,Asne Seierstad,2003
+180,The Subjection of Women,John Stuart Mill,1869
+181,An Autobiography of Anthony Trollope,Anthony Trollope,1883
+182,Basic Documents in American History,Richard Brandon Morris,1956
+183,The Pillow Book,Sei Shōnagon,1002
+184,The Meaning of Truth,William James,1909
+185,Mencius,Mencius,-400
+186,Democratic Vistas,Walt Whitman,1871
+187,Records of the Grand Historian,Sima Qian,-91
+188,Mythology,Edith Hamilton,1942
+189, The Feynman Lectures on Physics,Richard P. Feynman,1995
+190,Man's Search for Meaning,Victor Frankl,1984
+191,Tristes Tropiques,Claude Levi-Strauss,1955
+192,Angela's Ashes: A Memoir,Frank McCourt,1996
+193,Either Or,Soren Kierkegaard,1843
+194,The Seven Pillars of Wisdom,T.E. Lawrence,1926
+195,The Autobiography of Alice B. Toklas,Gertrude Stein,1933
+196,The City in History,Lewis Mumford,1961
+197,The Power Broker,Robert Caro,1974
+198,The Habit of Being,Flannery O'Connor,1978
+199,The Fire Next Time,James Baldwin,1963
+200,The Lives of the Twelve Caesars,Suetonius,121
+201,Critique of Pure Reason,Immanuel Kant,1781
+202,Geography,Ptolemy,150
+203,A Fire on the Moon,Norman Mailer,1970
+204,The Artist's Way,Julia Cameron,1992
+205,Kafka's Other Trial,Elias Canetti,1974
+206,The Voices of Marrakesh: A Record of a Visit,Elias Canetti,1978
+207,Histories,Cornelius Tacitus,110
+208,The Tipping Point,Malcolm Gladwell,2000
+209,The Revolt of the Masses,José Ortega y Gasset,1929
+210,The George Sand-Gustave Flaubert Letters,Gustave Flaubert,1921
+211,The Color of Water: A Black Man's Tribute to His White Mother,James McBride,1995
+212,Battle Cry of Freedom,James M. McPherson,1988
+213,Good-Bye to All That,Robert Graves,1929
+214,Memoirs of Cardinal De Retz,Cardinal de Retz,1717
+215,Hiroshima,John Hersey,1946
+216,Seven Years in Tibet,Heinrich Harrer,1952
+217,The Triumph of the Therapeutic,Philip Rieff,1966
+218,Christ Stopped at Eboli: The Story of a Year,Carlo Levi,1945
+219,The Kon-Tiki Expedition: By Raft Across the South Seas,Thor Heyerdahl,1948
+220,The Great Chain of Being,Arthur Lovejoy,1936
+221,Persons and Places,George Santayana,1944
+222,After Virtue,Alasdair MacIntyre,1981
+223,Understanding Poetry,Cleanth Brooks & Robert Penn Warren,1938
+224,The Nature and Destiny of Man,Reinhold Niebuhr,1941
+225,Letters from an American Farmer,J. Crevecoeur,1782
+226,The New Science of Politics,Eric Voegelin,1952
+227,Natural Right and History,Leo Strauss,1953
+228,I Will Bear Witness,Victor Klemperer,1998
+229,Teacher in America,Jacques Barzun,1945
+230,Prejudices,H. L. Mencken,1919
+231,"Protestant, Catholic, Jew",Will Herberg,1955
+232,Essays and Aphorisms,Arthur Schopenhauer,1860
+233,Religion and the Rise of Western Culture,Christopher Dawson,1950
+234,The Twilight of the Idols and The Antichrist,Friedrich Nietzsche,1889
+235,The Whig Interpretation of History,Herbert Butterfield,1931
+236,The Stripping of the Altars,Eamon Duffy,1992
+237,The Man Who Mistook His Wife for a Hat,Oliver Sacks,
+238,Lost in the Cosmos,Walker Percy,1983
+239,Homo Ludens: A Study of the Play-Element in Culture,Johan Huizinga,1938
+240,A History of Philosophy,Frederick Charles Copleston,1946
+241,The Immortal Life of Henrietta Lacks,Rebecca Skloot,
+242,The Memoirs of the Duke of Saint-Simon on the Reign of Louis XIV. and the Regency,Louis de Rouvroy Saint-Simon (duc de),1755
+243,Rationalism in Politics,Michael Oakeshott,1962
+244,Economy and Society,Max Weber,1922
+245,Eminent Victorians,Lytton Strachey,1918
+246,Sociobiology,Edward O. Wilson,1975
+247,Centesimus Annus,Pope John Paul II,1991
+248,The Tao of Physics,Fritjof Capra,1975
+249,The World as Will and Idea,Arthur Schopenhauer,1818
+250,Titi Livi Ab urbe condita libri,Livy,-9
+251,The Woman Warrior: Memoirs of a Girlhood Among Ghosts,Maxine Hong Kingston,1975
+252,The Pursuit of the Millennium,Norman Cohn,1957
+253,Slouching Towards Bethlehem,Joan Didion,1968
+254,The Great Terror,Robert Conquest,1968
+255,Chronicles of Wasted Time,Malcolm Muggeridge,1972
+256,The Rise and Fall of the Third Reich,William L. Shirer,1960
+257,Reveille in Washington,Margaret Leech,1942
+258,Roughing It,Mark Twain,1872
+259,Persepolis,Marjane Satrapi,2000
+260,One Two Three . . . Infinity: Facts and Speculations of Science,George Gamow,1947
+261,The 18th Brumaire of Louis Bonaparte,Karl Marx,1852
+262,"Human, All Too Human",Friedrich Nietzsche,1878
+263,Napoleon,Vincent Cronin,1971
+264,The Son of a Servant,August Strindberg,1886
+265,Parerga and Paralipomena,Arthur Schopenhauer,1851
+266,Galapagos: World's End,William Beebe,1924
+267,Microbe Hunters,Paul de Kruif,1926
+268,The Reason Why,Cecil Woodham-Smith,1953
+269,My Life,Leon Trotsky,1929
+270,Escape from Freedom,Erich Fromm,1941
+271,Roosevelt: The Lion and the Fox (1882–1940),James MacGregor Burns,1956
+272,The Two-Ocean War: A Short History of the United States Navy in the Second World War,Samuel Eliot Morison,1963
+273,An Anatomical Exercise on the Motion of the Heart and Blood in Living Beings,William Harvey,1628
+274,Germania,Cornelius Tacitus,98
+275,The Name Above the Title: An Autobiography,Frank Capra,1971
+276,On War,Carl Von Clausewitz,1832
+277,A Long Way Gone: Memoirs of a Boy Soldier,Ishmael Beah,
+278,Up in the Old Hotel,Joseph Mitchell,1992
+279,The Souls of Black Folk,W.E.B. Du Bois,1903
+280,I Know Why the Caged Bird Sings,Maya Angelou,1969
+281,The Everlasting Man,G. K. Chesterton,1925
+282,Hell's Angels,Hunter S. Thompson,1965
+283,The Mismeasure of Man,Stephen Jay Gould,1981
+284,The Art of Memory,Frances A. Yates,1966
+285,Night,Elie Wiesel,1960
+286,Radical Chic and Mau-Mauing the Flak Catchers,Tom Wolfe,1970
+287,Letters to a Young Poet,Rainer Maria Rilke,1934
+288,The Unsettling of America,Wendell Berry,1960
+289,The Social Contract,Jean-Jacques Rousseau,1762
+290,All the President's Men,"Bob Woodward, Carl Bernstein",
+291,The Nicomachean Ethics,Aristotle,-400
+292,The American Language,H. L. Mencken,1919
+293,The Lives of a Cell,Lewis Thomas,1974
+294, The Unheavenly City,Edward C. Banfield,1970
+295,Dispatches,Michael Herr,1977
+296,The Guns of August,Barbara Tuchman,1962
+297,The Age of Reform,Richard Hofstadter,1955
+298,The End of History and the Last Man,Francis Fukuyama,1992
+299,The Joy of Cooking,"Irma S. Rombauer, Marion Rombauer Becker, and Ethan Becker",1936
+300,The Journal of Jules Renard,Jules Renard,1925
+301,God and Man at Yale,"William F. Buckley, Jr.",1951
+302,"Gödel, Escher, Bach",Douglas Hofstadter,1979
+303,"Guns, Germs, and Steel",Jared Diamond,1997
+304,A Supposedly Fun Thing I'll Never Do Again,David Foster Wallace,1997
+305,Ideas Have Consequences,Richard M. Weaver,1948
+306,Children of Crisis,Robert Coles,1967
+307, The Economy of Cities,Jane Jacobs,1969
+308,The Closing of the American Mind,Allan Bloom,1987
+309,"The Road Less Travelled: A New Psychology of Love, Traditional Values and Spiritual Growth",M. Scott Peck,1978
+310,Lives of the Caesars,Suetonius,121
+311,An Essay on the Principle of Population,Thomas Robert Malthus,1798
+312,Small Is Beautiful: Economics as if People Mattered,E. F. Schumacher,1973
+313,How Democracies Perish,Jean François Revel,1983
+314,A Sand County Almanac,Aldo Leopold,1949
+315,Free to Choose: A Personal Statement,"Milton Friedman, Rose Friedman",1980
+316,Entropy,"Jeremy Rifkin, Ted Howard",
+317,The Dancing Wu Li Masters,Gary Zukav,1979
+318,Citizens,Simon Schama,1989
+319,Long Walk to Freedom: The Autobiography of Nelson Mandela,Nelson Mandela,1995
+320,Ethnic America,Thomas Sowell,1981
+321,Main Currents in American Thought,Vernon L Parrington,1927
+322,The Proper Study of Mankind,Isaiah Berlin,1997
+323,Notes of a Native Son,James Baldwin,1955
+324,Desert Solitaire,Edward Abbey,1968
+325,Three Case Histories,Sigmund Freud,1963
+326,On Writing,Stephen King,2000
+327,Nature and Destiny of Man,Reinhold Niebuhr,1943
+328,The Struggle for Europe,Chester Wilmot,1952
+329,Facundo,Domingo Faustino Sarmiento,1845
+330,Maximes,François duc de La Rochefoucauld,1680
+331,The Worst Journey in the World,Robert Falcon Scott,1922
+332,Being and Time,Martin Heidegger,1927
+333,Les Caractères,Jean de La Bruyère,1688
+334,Lettres de madame de Sévigné,Marie de Rabutin-Chantal marquise de Sévigné,1696
+335,Systematic Theology,Wolfhart Pannenberg,1988
+336,The Campaign of the Marne,Sewell Tyng,1925
+337,On Food and Cooking: The Science and Lore of the Kitchen,Harold McGee,1984
+338,The Provincial Letters,Blaise Pascal,1656
+339,Tractatus Logico-Philosophicus,Ludwig Wittgenstein,1921
+340,Insight: A Study of Human Understanding,Bernard Lonergan,1957
+341,Correspondence,Voltaire,1778
+342,Duke of Deception,Geoffrey Wolff,1979
+343,The Works of Max Beerbohm,Max Beerbohm,1896
+344,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Michael Azerrad,2001
+345,The Americans,Robert Frank,1958
+346,Larousse Gastronomique: The World's Greatest Culinary Encyclopedia,Joël Robuchon,2009
+347,The Emperor,Ryszard Kapuscinski,1978
+348,El Bulli: 1998-2002,"Ferran Adria, Juli Soler, Albert Adria",2002
+349,Essential Cuisine,Michel Bras,
+350,Hollywood Babylon,Kenneth Anger,1959
+351,Philosophical Writings,Novalis,1801
+352,Disraeli,Robert Blake,1967
+353,Democracy and Leadership,Irving Babbitt,1924
+354,Henry James,Leon Edel,1963
+355,Pilgrim at Tinker Creek,Annie Dillard,1975
+356,The Machiavellians,James Burnham,1943
+357,The Principia Mathematica,Alfred North Whitehead and Bertrand Russell,1913
+358,Reflections of a Russian Statesman,Konstantin P. Pobedonostsev,1898
+359,The Hedgehog and the Fox,Isaiah Berlin,1953
+360,The ABC of Reading,Ezra Pound,1934
+361,Second World War,John Keegan,1990
+362,The Making of Homeric Verse,Milman Parry,1971
+363,The Ants,E. O. Wilson and Bert Hölldobler,1990
+364,Essays of E. B. White,E. B. White,1977
+365,The Strange Ride of Rudyard Kipling,Angus Wilson,1977
+366,The Mirror and the Lamp,Meyer Howard Abrams,1953
+367,Scrutiny,F. R. Leavis,1947
+368,The Edge of the Sword,Charles De Gaulle,1960
+369,Narrative of the Life of Frederick Douglass,Frederick Douglass,1845
+370, Bureaucracy,Ludwig von Mises,1945
+371,Balzac,Stefan Zweig,1946
+372,The Art of the Soluble: Creativity and Originality in Science,Peter B. Medawar,1967
+373,The Good Society,Walter Lippmann,1937
+374,The Christian Tradition,Jaroslav Pelikan,1973
+375,Strange Defeat,Marc Bloch,1944
+376,Why We Can't Wait,"Martin Luther King, Jr.",1964
+377,Looking Back,Norman Douglas,1998
+378, Mont-Saint-Michel and Chartres,Henry Adams,1918
+379,Poetry and the Age,Randall Jarrell,1953
+380,Love in the Western World,Denis de Rougemont,1939
+381,Wealth and Poverty,George Gilder,1981
+382,Darwin's Black Box,Michael J. Behe,1996
+383,The Way the World Works,Jude Wanniski,1978
+384,To the Finland Station,Edmund Wilson,1940
+385,Civilisation,Kenneth Clark,1969
+386,The Russian Revolution,Richard Pipes,1990
+387,The Idea of History,R. G. Collingwood,1946
+388,The Last Lion,William Manchester,1988
+389,The Starr Report,Kenneth W. Starr,1998
+390,Encyclopédie,Denis Diderot,1751
+391,Guerrilla Warfare,Che Guevara,1961
+392,The Story of Art,E. H. Gombrich,1950
+393,The Clash of Civilizations,Samuel P. Huntington,1996
+394,"The Theory of Economic Development: An Inquiry into Profits, Capital, Credit, Interest, and the Business Cycle",Joseph A. Schumpeter,1911
+395,Desert Flower,"Waris Dirie, Cathleen Miller",1998
+396,The Meaning of Hitler,Sebastian Haffner,1978
+397,The Songlines,Bruce Chatwin,1987
+398,My Childhood,Maxim Gorky,1913
+399,The Story of Art,Ernst Hans Gombrich,1950
+400,An Inconvenient Truth: The Planetary Emergency of Global Warming and What We Can Do About It,Al Gore,2006
+401,The Making of the English Working Class,E. P. Thompson,1963
+402,A Theory of Justice,John Rawls,1971
+403,Art and Illusion,Ernest H. Gombrich,1960
+404,The Year of Magical Thinking,Joan Didion,2005
+405,Great Bridge,David McCullough,1972
+406,A Heartbreaking Work of Staggering Genius,Dave Eggers,2000
+407,Principia Ethica,George Moore,1903
+408,The Age of Jackson,"Arthur Schlesinger, Jr.",1945
+409,Philosophy and Civilization,John Dewey,1931
+410,Freakonomics,Steven D. Levitt and Stephen J. Dubner,2005
+411,On Growth and Form,D'Arcy Wentworth Thompson,1917
+412,The Looming Tower,Lawrence Wright,2006
+413,Truman,David McCullough,1992
+414,Ideas and Opinions,Albert Einstein,1954
+415,Dreams from My Father,Barack Obama,2004
+416,Me Talk Pretty One Day,David Sedaris,2000
+417,"Eats, Shoots and Leaves",Lynne Truss,2003
+418,This Boy's Life,Tobias Wolff,1989
+419,Notes from a Small Island,Bill Bryson,1995
+420,Crito,Plato,-399
+421,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,
+422,Team of Rivals: The Political Genius of Abraham Lincoln,Doris Kearns Goodwin,
+423,Phaedo,Plato,-399
+424,Euthyphro,Plato,-399
+425,The Liars' Club,Mary Karr,1995
+426,Bad Science,Ben Goldacre,2008
+427,Science and Civilisation in China,Joseph Needham,1954
+428,Zeitoun,Dave Eggers,2009
+429,London: The Biography,Peter Ackroyd,2000
+430,Care of the Soul: Guide for Cultivating Depth and Sacredness,Thomas Moore,1992
+431,Meditations on First Philosophy,René Descartes,1641
+432,Diaries,Alan Clark,1983
+433,The Consolation of Philosophy,Boethius,524
+434,Venice,Jan Morris,
+435,A History of the World in 100 Objects,Neil MacGregor,
+436,Schott's Original Miscellany,Ben Schott,2002
+437,The Sickness Unto Death,Søren Kierkegaard,1849
+438,A Child Called 'It',Dave Pelzer,1995
+439,The Life of Charlotte Brontë,Elizabeth Gaskell,1857
+440,The Age of Reason,Thomas Paine,1794
+441,Memoirs of a Fox-Hunting Man,Siegfried Sassoon,1928
+442,Essays of Henry David Thoreau,Henry David Thoreau,1862
+443,The Hare with Amber Eyes: A Family's Century of Art and Loss,Edmund de Waal,2010
+444,The Omnivore's Dilemma,Michael Pollan,
+445,Wild Swans: Three Daughters of China,Jung Chang,1991
+446,Born to Run,Chris McDougall,2009
+447,Ain't No Makin' It: Aspirations and Attainment in a Low-income Neighborhood,Jay MacLeod,1987
+448,Madame Curie - A Biography by Eve Curie,Eve Curie,2001
+449,The Selfish Gene,Richard Dawkins,
+450,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Brené Brown,
+451,Kama Sutra,Vātsyāyana,200
+452,Kitchen Confidential,Anthony Bourdain,
+453,Moneyball,Michael M. Lewis,
+454,The Death of Woman Wang MMP,Jonathan Spence,1978
+455,Farm Hands: Hard Work and Hard Lessons from Western New York Fields,Tom Rivers,
+456,Scepticism and Animal Faith,George Santayana,1923
+457,The Anglo-Saxon Chronicle,Unknown,875
+458,The Origins of the Second World War,A. J. P. Taylor,1961
+459,Biographia Literaria,Samuel Taylor Coleridge,1817
+460,The Frugal Superpower: America's Global Leadership in a Cash-Strapped Era,Michael Mandelbaum,2010
+461,The Beauty Myth,Naomi Wolf,1991
+462,"""Surely You're Joking, Mr. Feynman!"": Adventures of a Curious Character",Richard P. Feynman,1985
+463,A History of the English-Speaking Peoples,Winston Churchill,1956
+464,A Year in Provence,Peter Mayle,1989
+465,Catiline Orations,Marcus Tullius Cicero,-63
+466,"Why the West Rules - For Now: The Patterns of History, and What They Reveal About the Future",Ian Morris,2010
+467,The Devil In The White City,Erik Larson,2003
+468,The Private Life of Chairman Mao,Li Zhi-Sui,1994
+469,A People's Tragedy,Orlando Figes,1996
+470,Staying Power: The History of Black People in Britain,Peter Fryer,1984
+471,Areopagitica,John Milton,1644
+472,Eating Animals,Jonathan Safran Foer,2009
+473,The Shock Doctrine: The Rise of Disaster Capitalism,Naomi Klein,2007
+474,A History of the Crusades,Stephen Runciman,1951
+475,L'Encyclopédie,Diderot,1751
+476,Lives of the Artists,Giorgio Vasari,1908
+477,Soul of a Citizen: Living with Conviction in Challenging Times,Paul Rogat Loeb,1999
+478,How to Cook,Delia Smith,1971
+479,Canon of Medicine,Avicenna,1025
+480,Atlas,Gerardus Mercator,1585
+481,Present at the Creation,Dean Acheson,1969
+482,The Autobiography of Mark Twain,Mark Twain,1959
+483,The Road from Coorain,Jill Ker Conway,1989
+484,Working,Studs Terkel,1974
+485,The House of Morgan,Ron Chernow,1990
+486,Darkness Visible,William Styron,1989
+487,A Bright Shining Lie,Neil Sheehan,1988
+488,In the American Grain,William Carlos Williams,1925
+489,Cadillac Desert,Marc Reisner,1986
+490,James Joyce,Richard Ellmann,1983
+491,The Great War and Modern Memory,Paul Fussell,1975
+492,The Sweet Science,A. J. Liebling,1956
+493,The Rise of Theodore Roosevelt,Edmund Morris,1979
+494,Religion And The Rise Of Capitalism,R. H. Tawney,1922
+495,Shadow and ACT,Ralph Ellison,1964
+496,West With the Night,Beryl Markham,1942
+497,A Preface to Morals,Walter Lippmann,1929
+498,The Gate of Heavenly Peace,Jonathan D. Spence,1982
+499,The Strange Career of Jim Crow,C. Vann Woodward,1955
+500,The Rise of the West,William H. McNeill,1991
+501,The Gnostic Gospels,Elaine Pagels,1979
+502,The Journalist and the Murderer,Janet Malcolm,1990
+503,Florence Nightingale,Cecil Woodham-Smith,1983
+504,Studies in Iconology,Erwin Panofsky,1939
+505,The Strange Death of Liberal England,George Dangerfield,1935
+506,Vermeer,Lawrence Gowing,1952
+507,The American Political Tradition,Richard Hofstadter,1948
+508,Contours of American History,William Appleman Williams,1961
+509,The Promise of American Life,Herbert Croly,1909
+510,The Taming of Chance,Ian Hacking,1990
+511,Operating Instructions,Anne Lamott,1994
+512,Melbourne,David Cecil,1954
+513,A Distant Mirror,Barbara Tuchman,1978
+514,Being and Nothingness,Jean-Paul Sartre,1943
+515,Three Cups of Tea,"Greg Mortenson, David Oliver Relin",2006
+516,Beyond Freedom and Dignity,B.F. Skinner,1971
+517,I and Thou,Martin Buber,1923
+518,Syntactic Structures,Noam Chomsky,1957
+519,The Feminine Mystique,Betty Friedan,1963
+520,Cybernetics,Norbert Wiener,1950
+521,Treatise on Electricity and Magnetism,James Clerk Maxwell,1873
+522,"The Influence of Sea Power Upon History, 1660-1783",Alfred Thayer Mahan,1890
+523,The Logic of Scientific Discovery,Karl Popper,1934
+524,"Catiline's War, The Jugurthine War, Histories",Sallust,-35
+525,The Guide for the Perplexed,Moses Maimonides,1190
+526,The City of God,Saint Augustine,426
+527,Allegorical Expositions of the Holy Laws,Philo of Alexandria,50
+528,The Mind and Society,Vilfredo Pareto,1916
+529,Works of Gottfried Wilhelm Leibniz,Gottfried Wilhelm Leibniz,1716
+530,Enquiry Concerning Political Justice,William Godwin,1793
+531,A Treatise of Human Nature,David Hume,1739
+532,Phenomenology of Mind,G. W. F. Hegel,1807
+533,Reflections on the Revolution in France,Edmund Burke,1790
+534,The New Science,Giambattista Vico,1725
+535,Novum Organum,Francis Bacon,1620
+536,First Principles,Herbert Spencer,1862
+537,On the Babylonian Captivity of the Church,Martin Luther,1520
+538,Anabasis,Xenophon,
+539,The Works of Archimedes,Archimedes,-212
+540,The Course in Positive Philosophy,Auguste Comte,1842
+541,Outlines of Pyrrhonism,Sextus Empiricus,175
+542,On the Fabric of the Human Body,Andreas Vesalius,1543
+543,A Treatise Concerning the Principles of Human Knowledge,George Berkeley,1710
+544,The Histories,Polybius,
+545,Experiments on Plant Hybridization,Gregor Mendel,1865
+546,Beelzebub's Tales to His Grandson,George Ivanovitch Gurdjieff,1950
+547,An inquiry into the causes and effects of the variolae vaccinae,Edward Jenner,1798
+548,Psychological Types,Carl Jung,1921
+549,Natural History,Pliny (the Elder),79
+550,"Theophrastus: His Psychological, Doxographical, and Scientific Writings","William Wall Fortenbaugh, Dimitri Gutas",1992
+551,Kaffir Boy,Mark Mathabane,1986
+552,Maus,Art Spiegelman,1986
+553,First They Killed My Father: A Daughter of Cambodia Remembers,Loung Ung,2000
+554,Reading Lolita in Tehran,Azar Nafisi,2003
+555,Red Scarf Girl,Ji-li Jiang,1998
+556,John Adams,David McCullough,2001
+557,"The Making of the President, 1960",Theodore White,1961
+558,The Path to Power,Robert Caro,1982
+559,I Have Lived a Thousand Years,Livia Bitton-Jackson,1997
+560,All But My Life,Gerda Weissmann Klein,1957
+561,My Forbidden Face,Latifa,2001
+562,Falling Leaves,Adeline Yen Mah,1997
+563,In My Hands,Irene Opdyke,1999
+564,Funny in Farsi,Firoozeh Dumas,2003
+565,Enrique's Journey,Sonia Nazario,2006
+566,American Shaolin,Matthew Polly,2006
+567,Rising Tide,John Barry,1997
+568,Chinese Cinderella,Adeline Yen Mah,1999
+569,Symposium,Plato,-370
+570,My Life in France,Julia Child,2006
+571,The Confessions of Nat Turner,"Nat Turner, Thomas R. Gray",1831
+572,"Boswell's London Journal, 1762-1763",James Boswell,1763
+573,The life and letters of Benjamin Franklin,Benjamin Franklin,1790
+574,Man and His Symbols,Carl Gustav Jung,1964
+575,"A Testament of Hope: The Essential Writings and Speeches of Martin Luther King, Jr.",Martin Luther King,1986
+576,The Shock of the New,Robert Hughes,1980
+577,Grundrisse: Foundations of the Critique of Political Economy,Karl Marx,1858
+578,Eichmann in Jerusalem: A Report on the Banality of Evil,Hannah Arendt,1963
+579,The Hasheesh Eater,Fitz Hugh Ludlow,1857
+580,Infidel,Ayaan Hirsi Ali,2007
+581,A Modest Proposal and Other Satirical Works,Jonathan Swift,1729
+582,Black Elk Speaks,John G. Neihardt,1932
+583,Orientalism,Edward W. Said,1978
+584,Mountains Beyond Mountains: One doctor's quest to heal the world,Tracy Kidder,2003
+585,Sybil,Flora Rheta Schreiber,1973
+586,Against Interpretation,Susan Sontag,1966
+587,The Armies of the Night,Norman Mailer,1968
+588,The Hero with a Thousand Faces,Joseph Campbell,1949
+589,A People's History of the United States,Howard Zinn,1980
+590,The American Way of Death,Jessica Mitford,1963
+591,Nadja,André Breton,1928
+592,And the Band Played On,Randy Shilts,1987
+593,The Writer on Her Work,Janet Sternburg,1980
+594,Surrealist Manifesto,André Breton,1924
+595,How We Live,Rust Hills,2003
+596,A Homemade World,Hugh Kenner,1951
+597,The World Within the Word,William H. Gass,1978
+598,Superfiction,Joe David Bellamy,1975
+599,This Hallowed Ground,Bruce Catton,1956
+600,We Wish to Inform You That Tomorrow We Will Be Killed With Our Families: Stories from Rwanda,Philip Gourevitch,1998
+601,Coming of Age in the Milky Way,Timothy Ferris,1988
+602,"Memories, Dreams, Reflections",Carl Jung,1963
+603,For a New Novel,Alain Robbe-Grillet,1953
+604,Cod: A Biography of the Fish that Changed the World,Mark Kurlansky,1997
+605,Other Inquisitions,Jorge Luis Borges,1952
+606,Fiction and the Figures of Life,William H. Gass,1970
+607,The Pleasure of the Text,Roland Barthes,1975
+608,The Paris Review Interviews,Paris Review,2003
+609,Race Matters,Cornel West,1994
+610,For the Union Dead,Robert Lowell,1964
+611,Documents of Modern Art,Robert Motherwell,1972
+612,The New Fiction,Joe David Bellamy,1974
+613,The Rhetoric of Fiction,Wayne C Booth,1961
+614,One Writer's Beginnings,Eudora Welty,1983
+615,The Mind of the South,W.J. Cash,1929
+616,A Childhood: The Biography of a Place,Harry Crews,1978
+617,All Over But The Shoutin',Rick Bragg,1999
+618,Mary Chestnut's Civil War,Mary Chesnut,1982
+619,Killers of the Dream,Lillian Smith,1949
+620,The Good War,Studs Terkel,1984
+621,North Toward Home,Willie Morris,1967
+622,Mystery and Manners,Flannery O'Connor,1969
+623,Salvation on Sand Mountain,Dennis Covington,1996
+624,Incidents in the Life of a Slave Girl,Harriet Jacobs,1861
+625,Lanterns on the Levee,William Alexander Percy,1941
+626,I'll Take My Stand,Twelve Southerners,1930
+627,The Burder of Southern History,C. Vann Woodward,1993
+628,The Message In the Bottle,Walker Percy,1975
+629,The Earl of Louisiana,A.J. Liebling,1970
+630,Origins of the New South,C. Vann Woodward,1951
+631,What It Takes,Richard Ben Cramer,1988
+632,A Sense of Where You Are,John McPhee,1965
+633,The Crack-Up,F. Scott Fitzgerald,1945
+634,Nickel And Dimed,Barbara Ehrenreich,2001
+635,Common Ground,J. Anthony Lukas,1985
+636,Parting the Waters,Taylor Branch,1988
+637,Experience,Martin Amis,2000
+638,The Forever War,Dexter Filkins,2008
+639,Anti-intellectualism in American Life,Richard Hofstadter,1963
+640,The Haunted Land,Tina Rosenberg,1995
+641,Untold Stories,Alan Bennett,2005
+642,United States: Essays 1952-1992,Gore Vidal,1993
+643,We Tell Ourselves Stories in Order to Live: Collected Nonfiction,Joan Didion,2006
+644,Growing Up,Russell Baker,1982
+645,Edith Wharton: A Biography,R. W. B. Lewis,1975
+646,A Stillness at Appomattox,Bruce Catton,1953
+647,The Warmth of Other Suns: The Epic Story of America's Great Migration,Isabel Wilkerson,2010
+648,Mastering the Art of French Cooking,"Julia Child, Simone Beck, and Louisette Bertholle",1961
+649,The Swerve: How the World Became Modern,Stephen Greenblatt,2011
+650,The Age of Wonder: How the Romantic Generation Discovered the Beauty and Terror of Science,Richard Holmes,2008
+651,The Hemingses of Monticello,Annette Gordon-Reed,2008
+652,Arctic Dreams,Barry Lopez,1986
+653,Master of the Senate,Robert Caro,2002
+654,Russia Leaves the War,George F. Kennan,1956
+655,The God Delusion,Richard Dawkins,2006
+656,The Spirit of St. Louis,Charles Lindbergh,1953
+657,Into Thin Air,Jon Krakauer,1997
+658,The 9/11 Commission Report,9/11 Commission,2004
+659,The Rest is Noise,Alex Ross,2007
+660,Fun Home: A Family Tragicomic,Alison Bechdel,2006
+661,The Noonday Demon,Andrew Solomon,2001
+662,Consider The Lobster,David Foster Wallace,2005
+663,No Logo,Naomi Klein,2000
+664,Slavery by Another Name,Douglas A. Blackmon,2008
+665,Pictures At A Revolution,Mark Harris,2008
+666,Last Train to Memphis,Peter Guralnick,1994
+667,The Spirit Catches You and You Fall Down,Anne Fadiman,1997
+668,Backlash,Susan Faludi,1991
+669,Fast Food Nation,Eric Schlosser,2001
+670,Coleridge: Early Visions,Richard Holmes,1989
+671,Julia Ward Howe,Laura E. Richards and Maud Howe Elliott,1916
+672,Voices from Chernobyl,Svetlana Alexievich,2005
+673,"Booker T. Washington: The Wizard of Tuskegee, 1901–1915",Louis R. Harlan,1983
+674,The American Leonardo: The Life of Samuel F B. Morse,Carleton Mabee,1943
+675,How We Die: Reflections on Life's Final Chapter,Sherwin B. Nuland,1994
+676,Looking at Dance,Edwin Denby,1972
+677,"The Internal Enemy: Slavery and War in Virginia, 1772-1832",Alan Taylor,2013
+678,Lindbergh,A. Scott Berg,1989
+679,The Greenback Era,Irwin Unger,1965
+680,Coming into the Country,John McPhee,1976
+681,Crusader in Crinoline,Forrest Wilson,1942
+682,In the Shadow of Man,Jane Goodall,1971
+683,Gandhi's Truth,Erik H. Erikson,1969
+684,Ever Since Darwin: Reflections in Natural History,Stephen Jay Gould,1977
+685,The Disruption of American Democracy,Roy Franklin Nichols,1948
+686,Peter the Great: His Life and World,Robert K. Massie,1980
+687,"Our Bodies, Ourselves","Our Bodies, Ourselves",1973
+688,Sexual Behavior in the Human Male,Alfred C. Kinsey,1948
+689,"W.E.B. Dubois : Biography of a Race, 1868–1919",David Levering Lewis,1993
+690,Liberty's Exiles: American Loyalists in the Revolutionary World,Maya Jasanoff,2011
+691,The Edward Hoagland Reader,Edward Hoagland,1979
+692,The Weather Makers,Tim Flannery,2005
+693,Carry Me Home,Diane McWhorter,2001
+694,AA Big Book,Bill W,1939
+695,Reflections from Captivity,Ho Chi Minn,1978
+696,The Visible Hand,"Alfred D. Chandler, Jr.",1977
+697,"The Old Northwest, Pioneer Period 1815-1840",R. Carlyle Buley,1951
+698,Henry Adams,Ernest Samuels,1965
+699,Encyclicals of Pope John XXIII,Pope John XXIII,1965
+700,The Race Beat,Gene Roberts and Hank Klibanoff,2006
+701,The Course of Empire,Bernard A. DeVoto,1952
+702,A History of the United States,Edward Channing,1926
+703,Arab and Jew,David K. Shipler,1986
+704,Patterns of Culture,Ruth Benedict,1934
+705,"The Coming of the War, 1914",Bernadotte E. Schmitt,1931
+706,The Years of Extermination,Saul Friedlander,2007
+707,Herman Melville,Newton Arvin,1950
+708,When Breath Becomes Air,Paul Kalanithi,2016
+709,Rough Crossings,Simon Schama,2005
+710,Ghost Wars,Steve Coll,2004
+711,The Dred Scott Case,Don E. Fehrenbacher,1979
+712,Young Men and Fire,Norman Maclean,1993
+713,A Prince of Our Disorder: The Life of T E. Lawrence, John E. Mack,1976
+714,Blue Highways: A Journey into America,William Least Heat-Moon,1982
+715,Eden's Outcasts,John Matteson,2008
+716,William Cooper's Town,Alan Taylor,1995
+717,The History of the Standard Oil Company,Ida Tarbell,1904
+718,Facts of Life,Maureen Howard,1977
+719,John Hay,Tyler Dennett,1933
+720,Munich: The Price of Peace,Telford Taylor,1979
+721,O Strange New World,Howard Mumford Jones,1964
+722,A Life's Work: On Becoming a Mother,Rachel Cusk,2001
+723,The Great Railway Bazaar,Paul Theroux,1975
+724,My Experiences in the World War,John J. Pershing,1932
+725,W.E.B. Du Bois: The Fight for Equality and The American Century,David Levering Lewis,2001
+726,The Masters and the Slaves,Gilberto Freyre,1933
+727,The War with Mexico,Justin H. Smith,1920
+728,Khrushchev: The Man and His Era,William Taubman,2003
+729,The Water Is Wide,Pat Conroy,1972
+730,A Critique of the Theory of Evolution,Thomas Hunt Morgan,1916
+731,Pedlar's Progress,Odell Shepard,1938
+732,The School and the Child,John Dewey,1906
+733,Puritan Village: The Formation of a New England Town,Sumner Chilton Powell,1963
+734,The Man From New York: John Quinn and His Friends,Benjamin Lawrence Reid,1969
+735,The Metaphysical Club: A Story of Ideas,Louis Menand,2001
+736,Lords of Finance: The Bankers Who Broke the World,Liaquat Ahamed,2009
+737, A History of the Civil War,James Ford Rhodes,1918
+738,Motivation and Personality,Abraham Maslow,1954
+739,The Wisdom Of Crowds,James Surowiecki,2004
+740,Mencken Chrestomathy,H.L. Mencken,1949
+741,Collected essays,Aldous Huxley,1958
+742,Scientists Against Time,James Phinney Baxter III,1947
+743,The Life of John Marshall,Albert J. Beveridge,1919
+744,Louise Bogan: A Portrait,Elizabeth Frank,1986
+745,The Thought and Character of William James,Ralph Barton Perry,1935
+746,"Washington, Village and Capital, 1800-1878",Constance McLaughlin Green,1963
+747,George Washington,Douglas Southall Freeman,1957
+748,The First Tycoon: The Epic Life of Cornelius Vanderbilt,T. J. Stiles,2009
+749,Charles Evans Hughes,Merlo J. Pusey,1951
+750,The Dragons of Eden,Carl Sagan,1977
+751,Down and Out in Paris and London,George Orwell,1933
+752,"Men are from Mars, Women are from Venus",John Gray,1992
+753,Freedom From Fear: The American People,David M. Kennedy,1999
+754,Hunger of Memory,Richard Rodriguez,1982
+755,Theory of Games and Economic Behavior,John Von Neumann,1944
+756,Reliable Essays: The Best of Clive James,Clive James,2001
+757,Hamilton Fish,Allan Nevins,1937
+758,Ralph Waldo Emerson,Ralph L. Rusk,1950
+759,The Land Where the Blues Began,Alan Lomax,1993
+760,Memoirs,George Frost Kennan,1968
+761,Metaphors of Memory,D. Draaisma,2000
+762,John C. Calhoun: American Portrait,Margaret Louise Coit,1951
+763,The Life of Sir William Osler,Harvey Cushing,1925
+764,"The Transformation of Virginia, 1740-1790",Rhys L. Isaac,1983
+765,Roosevelt and Hopkins,Robert E. Sherwood,1949
+766,The Heavens and the Earth,Walter A. McDougall,1986
+767,"Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity",Katherine Boo,2012
+768,Art and Culture: Critical Essays,Clement Greenberg,1961
+769,The Big Sea,Langston Hughes,1940
+770,Freedom,Orlando Patterson,1991
+771,The Immense Journey,Loren Eiseley,1957
+772,American Prometheus,Kai Bird and Martin J. Sherwin,2005
+773,Banks and Politics in America,Bray Hammond,1957
+774,Imperial Reckoning,Caroline Elkins,2005
+775,Lenin's Tomb: The Last Days of the Soviet Empire,David Remnick,1994
+776,Ten Days That Shook the World,John Reed,1919
+777,The Founding of New England,James Truslow Adams,1921
+778,Origins of the Fifth Amendment,Leonard W. Levy,1968
+779,Washington's Crossing,David Hackett Fischer,2003
+780,The Era of Good Feelings,George Dangerfield,1952
+781,Five Days at Memorial: Life and Death in a Storm-Ravaged Hospital,Sheri Fink,2013
+782,Satyagraha in South Africa,Gandhi,1928
+783,Forgotten First Citizen: John Bigelow,Margaret Clapp,1948
+784,Double Fold: Libraries and the Assault on Paper,Nicholson Baker,2001
+785,Founding Brothers: The Revolutionary Generation,Joseph Ellis,2000
+786,Psychology of the Unconscious,C.G. Jung,1916
+787,Under the Eye of the Clock,Christopher Nolan,1987
+788,"American Education: The National Experience, 1783-1876",Lawrence A. Cremin,1981
+789,Creatures that Once Were Men,Maksim Gorky,1905
+790,"The Triumphant Empire: Thunder-Clouds Gather in the West, 1763-1766",Lawrence H. Gipson,1962
+791,American Lion: Andrew Jackson in the White House,Jon Matteson,2009
+792,Becoming a Man: Half a Life Story,Paul Monette,1992
+793,Move Your Shadow,Joseph Lelyveld,1985
+794,Bad Land: An American Romance,Jonathan Raban,1996
+795,Uncertainty Principle,Werner Heisenberg,1935
+796,Earth: An Intimate History,Richard Fortey,2004
+797,John Keats,Walter Jackson Bate,1964
+798,An American in Italy,Herbert Kubly,1955
+799,Behaviorism,John Watson,1930
+800,The Life and Times of Cotton Mather,Kenneth Silverman,1984
+801,Mistress to an Age: A Life of Madame De Stael,J. Christopher Herold,1958
+802,The Power Elite,C. Wright Mills,1956
+803,Enthusiasms,Bernard Levin,1983
+804,Conditioned Reflexes,Ivan Pavlov,1927
+805,Philosophy of Modern Music,Theodor Adorno,1973
+806,In the Days of McKinley,Margaret Leech,1960
+807,The Suspicions of Mr Whicher,Kate Summerscale,2008
+808,The Worst Hard Time,Timothy Egan,2005
+809,Happiness in Marriage,Margaret Sanger,1926
+810,Luce and His Empire,W.A. Swanberg,1973
+811,Admiral of the Ocean Sea,Samuel Eliot Morison,1942
+812,"Far From the Tree: Parents, Children and the Search for Identity",Andrew Solomon,2012
+813,"The Launching of Modern American Science, 1846-1876",Robert V. Bruce,1987
+814,The Reluctant Fundamentalist,Mohsin Hamid,2007
+815,Arc of Justice,Kevin Boyle,2004
+816,The Rape of Europa,Lynn Nicholas,1995
+817,Lamy of Santa Fe,Paul Horgan,1975
+818,The Growth of American Thought,Merle Curti,1943
+819,Abraham Lincoln: The War Years,Carl Sandburg,1939
+820,The Road to Reunion,Paul Herman Buck,1900
+821,In the Heart of the Sea,Nathaniel Philbrick,2001
+822,Malcolm X: A Life of Reinvention,Manning Marable,2011
+823,The Flowering of New England,Van Wyck Brooks,1937
+824,One Man's Meat,E. B. White,1944
+825,Art and Life in America,Oliver W. Larkin,1950
+826,John Paul Jones,Samuel Eliot Morison,1959
+827,A Life of Picasso,John Richardson,1991
+828,"Woodrow Wilson, American Prophet",Arthur Walworth,1959
+829,The Taft Story,William S. White,1955
+830,Pulphead: Essays,John Jeremiah Sullivan,2011
+831,Harriet Beecher Stowe: A Life,Joan D. Hedrick,1994
+832,A History of American Magazines,Frank Luther Mott,1939
+833,Why Survive? Being Old in America,Robert Neil Butler,1975
+834,The World Without Us,Alan Weisman,2007
+835,Self-Consciousness,John Updike,1989
+836,A Thousand Days,"Arthur M. Schlesinger, Jr.",1966
+837,Study of Organic Inferiority and Its Physical Compensation: A Contribution to Clinical Medicine,Alfred Adler,1917
+838,Between the World and Me,Ta-Nehisi Coates,2015
+839,The Revenge of Gaia,James Lovelock,2006
+840,The Beak of the Finch: A Story of Evolution in Our Time,Jonathan Weiner,1994
+841,Is There No Place On Earth For Me?,Susan Sheehan,1982
+842,The People's Choice,Herbert Agar,1933
+843,A Constitutional History of the United States,Andrew C. McLaughlin,1935
+844,Benjamin Henry Latrobe,Talbot Faulkner Hamlin,1956
+845,The True Believer,Eric Hoffer,1951
+846,George Bancroft: Brahmin Rebel,Russel Blaine Nye,1945
+847,History of the American Frontier,Frederic L. Paxson,1924
+848,Grover Cleveland,Allan Nevins,1934
+849,Annals of the Former World,John McPhee,1998
+850,Picture,Lillian Ross,1952
+851,A Drinking Life: A Memoir,Pete Hamill,1994
+852,Dust Tracks on a Road: An Autobiography,Zora Neale Hurston,1942
+853,Crazy Salad: Some Things about Women,Nora Ephron,1975
+854,Mein Kampf,Adolf Hitler,
+855,On Human Nature,E. O. Wilson,1979
+856,How to Win Friends and Influence People,Dale Carnegie,1936
+857,The Measure of Man,Joseph Wood Krutch,1954
+858,The Uprooted,Oscar Handlin,1952
+859,Pinckney's Treaty,Samuel Flagg Bemis,1927
+860,How the Other Half Lives,Jacob Riis,1890
+861,Benjamin Franklin,Carl Van Doren,1938
+862,The Dead Hand: The Untold Story of the Cold War Arms Race and Its Dangerous Legacy,David Hoffman,2009
+863,The Autobiography of William Allen White,William Allen White,1946
+864,In Our Image: America's Empire in the Philippines,Stanley Karnow,1989
+865,Ashes to Ashes,Richard Kluger,1996
+866,The Significance of Sections in American History,Frederick J. Turner,1933
+867,Newjack: Guarding Sing Sing,Ted Conover,2001
+868,Oscar Wilde,Richard Ellmann,1988
+869,Change We Can Believe In,Barack Obama,2008
+870,A Problem from Hell: America and the Age of Genocide,Samantha Power,2002
+871,Coming of Age in Samoa,Margaret Mead,1928
+872,The Victory at Sea,William Sowden Sims,1921
+873,Voyagers to the West: A Passage in the Peopling of America on the Eve of the Revolution,Bernard Bailyn,1987
+874,Polio: An American Story,David M. Oshinsky,2005
+875,Great Plains,Ian Frazier,1989
+876,de Kooning,Mark Stevens and Annalyn Swan,2005
+877,Great River: The Rio Grande in North American History,Paul Horgan,1955
+878,On Aggression,Konrad Lorenz,1966
+879,"Devil in the Grove: Thurgood Marshall, the Groveland Boys, and the Dawn of a New America",Gilbert King,2012
+880,Waiting for Snow in Havana: Confessions of a Cuban Boy,Carlos Eire,2003
+881,Being Jordan,Katie Price,2004
+882,Charles Sumner and the Coming of the Civil War,David Donald,1961
+883,The Raven,Marquis James,1930
+884,Vera,Stacy Schiff,2000
+885,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,Nigella Lawson,2000
+886,We Wish to Inform You That Tomorrow We Will Be Killed with Our Families, Philip Gourevitch,1998
+887,Grant: A Biography,William S. McFeely,1981
+888,Bury My Heart at Wounded Knee,Dee Alexander Brown,1970
+889,A Daughter of the Middle Border,Hamlin Garland,1922
+890,The Lion and the Throne,Catherine Drinker Bowen,1957
+891,The Broken Cord,Michael Dorris,1988
+892,Between War and Peace: The Potsdam Conference,Herbert Feis,1960
+893,Whitman,Emory Holloway,1927
+894,The Ideological Origins of the American Revolution,Bernard Bailyn,1968
+895,Personal History,Katharine Graham,1997
+896,Son of the Wilderness,Linnie Marsh Wolfe,1946
+897,The Atlantic Migration,Marcus Lee Hansen,1860
+898,An Army at Dawn,Rick Atkinson,2002
+899,The Problem of Slavery in Western Culture,David Brion Davis,1966
+900,A Civil Action,Jonathan Harr,1996
+901,Nixonland,Rick Perlstein,2008
+902,Embracing Defeat: Japan in the Wake of World War II,John W. Dower,1999
+903,The Life of Andrew Jackson,Marquis James,1937
+904,The Common Sense Book of Baby and Child Care,Benjamin Spock,1946
+905,Summer for the Gods,Edward Larson,1997
+906,A Nation under Our Feet,Steven Hahn,2003
+907,Neither Black Nor White,Carl N. Degler,1972
+908,Fire in the Lake,Frances FitzGerald,1972
+909,The Montessori Method,Maria Montessori,1912
+910,The Most Famous Man in America,Debby Applegate,2007
+911,Been in the Storm So Long,Leon F. Litwack,1979
+912,Rousseau and Revolution,Will and Ariel Durant,1967
+913,Gulag: A History,Anne Applebaum,2003
+914,My Life and Hard Times,James Thurber,1933
+915,"Brother, I'm Dying",Edwidge Danticat,2007
+916,The Life and Letters of Walter H. Page,Burton J. Hendrick,1923
+917,Taking the World in for Repairs,Richard Selzer,1986
+918,The Unwinding: An Inner History of the New America,George Packer,2013
+919,Original Meanings,Jack N. Rakove,1997
+920,The Price of Power,Seymour M. Hersh,1982
+921,Sons of Mississippi,Paul Hendrickson,2002
+922,Days of Sorrow and Pain: Leo Baeck and the Berlin Jews,Leonard Baker,1978
+923,The Audacity of Hope,Barack Obama,2006
+924,With Americans of Past and Present Days,Jean Jules Jusserand,1916
+925,"O'Neill, Son and Artist",Louis Sheaffer,1974
+926,House,Tracy Kidder,1985
+927,Hirohito and the Making of Modern Japan,Herbert P. Bix,2000
+928,Toms River: A Story of Science and Salvation,Dan Fagin,2013
+929,Gotham: A History of New York City,Edwin G. Burrows,1998
+930,Changing My Mind: Occasional Essays,Zadie Smith,2009
+931,Little Wilson and Big God,Anthony Burgess,1986
+932,Beautiful Swimmers,William Warner,1976
+933,From Beirut to Jerusalem,Thomas L. Friedman,1995
+934,"Benjamin Franklin, Self-Revealed",William Cabell Bruce,1917
+935,The Joy of Sex,Alex Comfort,1972
+936,Jackson Pollock: An American Saga,Steven Naifeh and Gregory White Smith,1989
+937,The Course of American Democracy,Robert V. Remini,1984
+938,"Woodrow Wilson, Life and Letters",Ray Stannard Baker,1939
+939,Function of the Orgasm,Wilhelm Reich,1973
+940,The Life of the Mind in America,Perry Miller,1965
+941,A Walker in the City,Alfred Kazin,1951
+942,Charles W. Eliot,Henry James,1930
+943,Across the Wide Missouri,Bernard DeVoto,1947
+944,The Training of an American: The Earlier Life and Letters of Walter H. Page,Burton J. Hendrick,1928
+945,The Denial of Death,Ernest Becker,1973
+946,Fin-de-Siècle Vienna,Carl E. Schorske,1980
+947,Embers of War: The Fall of an Empire and the Making of America's Vietnam,Fredrik Logevall,2012
+948,The Organization and Administration of the Union Army,Fred Albert Shannon,1928
+949,Exploration and Empire: The Explorer and the Scientist in the Winning of the American West,William H. Goetzmann,1966
+950,The Reformation,Diarmaid MacCulloch,2003
+951,Walter Lippmann and the American Century,Ronald Steel,1980
+952,Huey Long,Thomas Harry Williams,1969
+953,"The Impending Crisis, 1841-1867",David M. Potter,1977
+954,Farewell to Manzanar,"Jeanne Wakatsuki Houston, James D. Houston",1973
+955,The Fiery Trial: Abraham Lincoln and American Slavery,Eric Foner,2010
+956,My Kind of Place,Susan Orlean,2004
+957,The Engineering of Consent,Edward Bernays,1947
+958,Paul Revere and the World He Lived In,Esther Forbes,1942
+959,Medical Apartheid,Harriet A. Washington,2007
+960,Stamped from the Beginning: The Definitive History of Racist Ideas in America,Ibram X. Kendi,2016
+961,"Age of Ambition: Chasing Fortune, Truth, and Faith in the New China",Evan Osnos,2014
+962,Smoking and Health,Surgeon General,1962
+963,Weapons and Hope,Freeman Dyson,1983
+964,Parliament of Whores,P. J. O'Rourke,1991
+965,Just Kids,Patti Smith,2010
+966,"Time, Love, Memory",Jonathan Weiner,1999
+967,The Wordy Shipmates,Sarah Vowell,2008
+968,Edmund Pendleton 1721–1803,David J. Mays,1952
+969,Eleanor and Franklin,Joseph P. Lash,1972
+970,The American Orchestra and Theodore Thomas,Charles Edward Russell,1927
+971,The Radicalism of the American Revolution,Gordon S. Wood,1992
+972,Unfinished Business,Stephen Bonsal,2004
+973,From Immigrant to Inventor,Michael I. Pupin,1924
+974,The Content of Our Character,Shelby Stelle,1989
+975,Postwar,Tony Judt,2005
+976,Lincoln at Gettysburg,Garry Wills,1992
+977,The Names,N. Scott Momaday,1976
+978,The War of Independence,Claude H. Van Tyne,1929
+979,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010
+980,Theodore Roosevelt,Henry F. Pringle,1932
+981,What Hath God Wrought,Daniel Walker Howe,2007
+982,Devil In The White City,Erik Larson,2003
+983,"The Prize: The Epic Quest for Oil, Money, and Power",Daniel Yergin,1990
+984,Snobbery: The American Version,Joseph Epstein,2002
+985,The Raw and the Cooked,Claude Levi-Strauss,1969
+986,The Blair Years,Alastair Campbell,2007
+987,Intelligent Life in the Universe,Carl Sagan,1966
+988,Legacy of Ashes: The History of the CIA,Tim Weiner,2007
+989,Masscult and Midcult: Essays Against the American Grain,Dwight Macdonald,1962
+990,God: A Biography,Jack Miles,1995
+991,London Orbital: A Year Walking Around the M25,Iain Sinclair,2002
+992,The Soul of a New Machine,Tracy Kidder,1981
+993,A Midwife's Tale,Laurel Thatcher Ulrich,1990
+994,"Robert Frost: The Years of Triumph, 1915–1938",Lawrence Thompson,1971
+995,Bearing the Cross: Martin Luther King Jr. and the Southern Christian Leadership Conference,David J. Garrow,1986
+996,And Their Children After Them,Dale Maharidge and Michael Williamson,1989
+997,Wandering Through Winter,Edwin Way Teale,1965
+998,Tales from Ovid,Ted Hughes,1997
+999,Mr. Clemens and Mark Twain,Justin Kaplan,1966
+1000,Whoredom in Kimmage,Rosemary Mahoney,1993
